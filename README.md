@@ -103,6 +103,10 @@ flowchart TB
 model. Text evidence (filing and news passages) lives in Chroma, where the Researcher searches it. Every query to either
 store takes an **as-of date** and uses only information public on or before it, so backtests have no look-ahead.
 
+### Data stores: who writes and reads each one
+
+![Data architecture: every store, with what writes to it and what reads from it](docs/images/data_architecture.png)
+
 ### The life of one pick
 
 ```mermaid
