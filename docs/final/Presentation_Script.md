@@ -1,7 +1,7 @@
 # Presentation script (8–10 minutes) and elevator pitch
 
 Deck: "Stock Research Agent: Final Capstone" (10 slides). The same text is in each slide's speaker notes.
-Target pace: about 140 words per minute. Total about 9 minutes 40 seconds; trim the evolution slide first if you run long.
+Target pace: about 140 words per minute. Total about 9 minutes 55 seconds; trim the evolution slide first if you run long.
 
 
 | # | Slide | Time | Cumulative |
@@ -10,12 +10,12 @@ Target pace: about 140 words per minute. Total about 9 minutes 40 seconds; trim 
 | 2 | The problem and the user | 1:00 | 1:30 |
 | 3 | Goal and scope | 0:50 | 2:20 |
 | 4 | Architecture | 1:10 | 3:30 |
-| 5 | The eight agents | 1:00 | 4:30 |
-| 6 | The life of one pick | 1:10 | 5:40 |
-| 7 | Design evolution | 1:10 | 6:50 |
-| 8 | Evaluation and results | 1:10 | 8:00 |
-| 9 | Safety, reliability and oversight | 0:50 | 8:50 |
-| 10 | Repository and next steps | 0:50 | 9:40 |
+| 5 | The eight agents | 1:15 | 4:45 |
+| 6 | The life of one pick | 1:10 | 5:55 |
+| 7 | Design evolution | 1:10 | 7:05 |
+| 8 | Evaluation and results | 1:10 | 8:15 |
+| 9 | Safety, reliability and oversight | 0:50 | 9:05 |
+| 10 | Repository and next steps | 0:50 | 9:55 |
 
 ---
 
@@ -56,10 +56,13 @@ not public yet, which keeps backtests honest. In the middle are eight agents bui
 call Claude only for language steps, and every call must return a validated schema. FastAPI and React put the user at the
 end, where the decisions are.
 
-## 5. The eight agents (1:00)
+## 5. The eight agents (1:15)
 
 Eight agents, each with one job. The key design choice is where the language model is used. Screening, ranking,
-arithmetic and learning are plain code, so they cannot hallucinate. The model is used only where judgment on text is
+arithmetic and learning are plain code, so they cannot hallucinate. The screener works on numbers only: daily prices
+and volume from Yahoo Finance for momentum and unusual-move triggers, annual EPS from the SEC's structured XBRL data for
+earnings yield, and analysts' estimates versus reported EPS from Yahoo for earnings surprises. It never reads filing text;
+that comes later, only for the stocks it shortlists. The model is used only where judgment on text is
 needed: the researcher writing claims, the critic judging them, the bull and bear analysts, and the sell monitor's thesis
 check. The critic sits on both sides: it checks the researcher's claims, and it scores the debate theses, sending
 promising but thinly supported ones back to the researcher for more evidence. The forecaster combines a calibrated

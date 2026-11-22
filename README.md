@@ -137,6 +137,23 @@ so they cannot invent anything.
 | **Sell monitor** | Flags open positions: trailing the S&P by 10+ points, 90 days reached, new filing; on request, re-checks the entry thesis against filings the pick never saw (intact / weakened / broken) | Code + LLM | Only flags; a verdict citing no new passage is rejected; closing is your decision | `stockagent/sell_monitor.py` |
 | **Reflector** | Grades past forecasts, finds groups where they are consistently too high or low, proposes a correction, keeps it only if it improves accuracy on later data it never saw | No | Rules capped at ±5 points and inactive until you approve; active rules re-tested nightly | `stockagent/reflector.py` |
 
+### How the Screener picks stocks: data sources
+
+The Screener ranks stocks on **numbers only**; it never reads filing text. Numbers are cheap to fetch for all ~500
+companies every night, while indexing a company's filing text takes minutes on a CPU, so filings are prepared only for
+stocks the Screener has already shortlisted.
+
+| Data | Source | Used for |
+|---|---|---|
+| S&P 500 member list (ticker, name, GICS sector, CIK) | Wikipedia's "List of S&P 500 companies", refreshed nightly | The universe to scan |
+| Daily adjusted prices and volume, all members + SPY | Yahoo Finance via `yfinance` | **Momentum** (6-month return minus SPY's); **triggers** (5-day move above 2.5× normal volatility, 5-day volume above 3× normal); history check (new listings go to human review) |
+| Annual diluted EPS | SEC EDGAR **XBRL company facts API** (structured numbers tagged in filings, with their filing date) | **Earnings yield** = EPS ÷ price (1 / P/E) |
+| EPS estimate vs reported EPS | Yahoo Finance earnings dates | **Earnings surprise** (ignored if older than 120 days or beyond ±50%); a 10%+ surprise in the last 10 days is a trigger |
+
+**Score** = the average of the three signals' percentile ranks among the ~50–70 candidates (equal weights; at least two
+signals needed). The **shortlist** is the top 10 by score plus every triggered stock, except new listings, which go to
+human review. Code: `stockagent/screener.py`, `scripts/08_screen.py`.
+
 How the debate works in detail (scores, pruning, "contested"): see the docstring at the top of
 `stockagent/debate_graph.py`. How the forecast is built: the docstring of `stockagent/forecaster.py`.
 
