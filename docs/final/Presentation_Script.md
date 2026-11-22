@@ -48,13 +48,14 @@ model cost.
 
 ## 4. Architecture (1:10)
 
-Here is the whole system on one page. A nightly job, scheduled at 11:55 PM, pulls new SEC filings, prices, insider trades
-from Form 4, macro data from FRED and trusted news. It indexes new text and screens all 500 stocks. Data lives in two
-stores on purpose: exact numbers in SQLite, always computed by code, never by the model; and filing passages in a Chroma
-vector index for the researcher to search. Every tool takes an as-of date, so the system never sees information that was
-not public yet, which keeps backtests honest. In the middle are eight agents built with LangGraph and plain Python. They
-call Claude only for language steps, and every call must return a validated schema. FastAPI and React put the user at the
-end, where the decisions are.
+*(Five clicks: one per layer.)* Here is the whole system, layer by layer. **[click]** It starts with public data: SEC
+filings and insider trades, Yahoo Finance prices, Finnhub news, FRED macro data, and the S&P 500 list from Wikipedia.
+**[click]** A nightly job at 11:55 PM downloads what is new, indexes new text, screens all 500 stocks, grades old forecasts
+and runs the self-checks. **[click]** Data lives in two stores on purpose: exact numbers in SQLite, always computed by
+code, never by the model; and filing passages in a Chroma vector index for the researcher to search. Every tool takes an
+as-of date, so nothing that was not public yet can leak in. **[click]** In the middle are the eight agents. The ones with
+an orange border call Claude, only for language steps, and every call must return a validated schema; the rest are plain
+code. **[click]** FastAPI and a React UI put the person at the end, where the decisions are.
 
 ## 5. The eight agents (1:15)
 
@@ -71,13 +72,15 @@ that really exist in the outcomes.
 
 ## 6. The life of one pick (1:10)
 
-This is the life of a single pick. The screener finds it, the researcher builds cited claims, the critic removes anything
-the filings do not support. Then the bull and bear analysts write three theses each. This is where I used
-Tree-of-Thought: the debate is a beam search. The critic scores each thesis, prunes weak ones, but always keeps the best
-bull and the best bear, so a thinly evidenced but correct argument survives. Promising theses with thin evidence get sent
-back to the researcher for one more search, at most two rounds. The forecaster turns the surviving theses into a small,
-capped adjustment on top of a calibrated model. Then the loop closes: positions are monitored, graded after 90 days, and
-the reflector proposes corrections that only take effect when I approve them.
+*(Four clicks.)* This is the life of a single pick. **[click]** The screener finds it, the researcher builds cited claims,
+the critic removes anything the filings do not support, the bull and bear analysts write three theses each, and the
+forecaster turns the survivors into a probability. **[click]** This is where I used Tree-of-Thought: the debate is a beam
+search. The critic scores each thesis and prunes weak ones, but always keeps the best bull and best bear, and it sends
+promising but thinly supported theses back to the researcher for one more search, at most two rounds. **[click]** Then the
+loop continues: the ranker orders the day's picks and opens a paper position only above 50 percent, the sell monitor
+watches it, it is graded after 90 days, and the reflector looks for groups of stocks it gets wrong. **[click]** And the loop
+closes with a person: the reflector only proposes corrections; they change future forecasts only when I approve them, and
+closing a position is always my decision.
 
 ## 7. Design evolution (1:10)
 
@@ -145,6 +148,7 @@ The code, a user manual and real outputs are on GitHub.
 ## Recording checklist
 
 - Slides visible the whole time; share the deck in Present mode.
+- Slides 4 and 6 reveal their diagrams step by step: click at each **[click]** in the script (5 clicks on slide 4, 4 on slide 6).
 - Say the GitHub link out loud on slide 10 and keep it on screen for a few seconds.
 - Optional 20–30 second demo instead of part of slide 6: open the Traces tab and click through one pick (time it so the
   total stays under 10 minutes).
