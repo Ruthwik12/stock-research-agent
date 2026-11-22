@@ -154,6 +154,22 @@ stocks the Screener has already shortlisted.
 signals needed). The **shortlist** is the top 10 by score plus every triggered stock, except new listings, which go to
 human review. Code: `stockagent/screener.py`, `scripts/08_screen.py`.
 
+### How the Researcher retrieves evidence (RAG)
+
+| Stage | What happens | Settings (`config.py`) |
+|---|---|---|
+| Indexing (nightly) | 10-K, 10-Q and 8-K sections plus trusted news are split into chunks that never cross a section, each prefixed with "TICKER FORM filed DATE, section" | ~600 tokens (`CHUNK_CHARS` 2,400), 300-character overlap |
+| Embedding and store | Chunks embedded locally with **bge-m3** (via Ollama) and stored in a **Chroma** vector database (cosine distance); about 6,964 passages today | `EMBED_MODEL`, `CHROMA_COLLECTION` |
+| 1. Filter | Only the selected ticker, filed on or before the as-of date | always on |
+| 2. Hybrid candidates | **Semantic:** nearest passages by vector similarity · **Keyword (BM25):** exact terms such as "Item 5.02" · **Newest filings:** nearest passages from the latest 10-Q/10-K and earnings release | top 30 (`RETRIEVE_FETCH_K`), top 10 (`RETRIEVE_KEYWORD_K`), top 8 (`RETRIEVE_LATEST_K`): about 30–48 unique candidates |
+| 3. Rerank | Local cross-encoder **ms-marco-MiniLM-L-12-v2** (ONNX, via fastembed) scores every candidate; minus 2 points per year of filing age | `RERANKER_MODEL`, `RECENCY_PENALTY_PER_YEAR` 2.0 |
+| 4. Drop | Cosine distance over 0.55; near-duplicates (80% contained in a kept passage); more than 2 news items | `MAX_COSINE_DISTANCE`, `NEAR_DUPLICATE_CONTAINMENT`, `NEWS_MAX_PER_QUERY` |
+| 5. Keep | The best 5 go to the Researcher, each with an evidence ID it must cite | `RETRIEVE_FINAL_K` 5 |
+
+The Researcher runs up to 3 retrieval rounds per question, and the debate's send-backs use the same retriever. Every
+search, with every candidate's scores and why it was kept or dropped, is logged to `logs/retrieval_trace.jsonl` and shown
+in the Traces tab. Code: `stockagent/retriever.py`, `scripts/03_ingest.py`.
+
 How the debate works in detail (scores, pruning, "contested"): see the docstring at the top of
 `stockagent/debate_graph.py`. How the forecast is built: the docstring of `stockagent/forecaster.py`.
 
