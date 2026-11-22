@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+
+# Built locally by the pipeline (about 1.3 GB); see README "Build the data"
+data/
+chroma_db/
+logs/
+
+# Frontend dependencies and build output
+web/node_modules/
+web/dist/
+
+# Editor / tool settings
+.claude/
+.vscode/
+.idea/

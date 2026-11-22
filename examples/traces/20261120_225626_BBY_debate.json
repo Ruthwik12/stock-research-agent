@@ -1,0 +1,1068 @@
+{
+ "ticker": "BBY",
+ "as_of": "2026-11-20",
+ "evidence": [
+  {
+   "chunk_id": "form4:BBY:2026-11-20",
+   "text": "SEC Form 4 insider transactions in BBY common stock, 2026-08-22 to 2026-11-20 (filings public by 2026-11-20):\nOpen-market purchases (code P): none.\nOpen-market sales (code S): 4 transactions by 2 insiders, 416,062 shares, about $38,449,577 in total; 0 of the 4 sales were under a Rule 10b5-1 trading plan.\nLargest: SCHULZE RICHARD M, 247,340 shares on 2026-09-16 at $92.43.\nGrants, option exercises, tax withholding and gifts are excluded (not open-market decisions).",
+   "distance": 0.0,
+   "ticker": "BBY",
+   "form_type": "Form 4 summary",
+   "filing_date": "2026-11-09",
+   "period_end": "",
+   "section": "Insider trades, last 90 days",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=764478&type=4&owner=include",
+   "eid": "E1"
+  },
+  {
+   "chunk_id": "fred:2026-11-20",
+   "text": "US macro snapshot from FRED (Federal Reserve Bank of St. Louis), data public by 2026-11-20:\n10-year Treasury yield: 5.07% on 2026-11-18; about 3 months earlier (2026-08-19) 4.65%.\n2-year Treasury yield: 4.80% on 2026-11-18; about 3 months earlier (2026-08-19) 4.19%.\nEffective fed funds rate: 3.88% on 2026-11-18; about 3 months earlier (2026-08-19) 3.63%.\nHigh-yield credit spread: 3.47% on 2026-11-18; about 3 months earlier (2026-08-19) 2.73%.\nVIX volatility index: 24.56 on 2026-11-18; about 3 months earlier (2026-08-19) 14.89.\nUnemployment rate: 4.1% for 2026-10.\nCPI inflation, year over year: 3.7% for 2026-09 (index 336.298 vs 324.245 a year earlier).",
+   "distance": 0.0,
+   "ticker": "BBY",
+   "form_type": "FRED macro",
+   "filing_date": "2026-11-18",
+   "period_end": "",
+   "section": "Macro snapshot",
+   "source_url": "https://fred.stlouisfed.org/",
+   "eid": "E2"
+  },
+  {
+   "chunk_id": "BBY_10-Q_2026-09-04_000042::md-a::0010",
+   "text": "Domestic segment adjusted SG&A increased in the first six months of fiscal 2027, primarily due to higher employee compensation expense, which includes incentive compensation, higher expenses related to our Best Buy Marketplace and Best Buy Ads initiatives, and higher credit card processing fees. These increases were partially offset by lower Best Buy Health expense and lower depreciation expense.\nDomestic segment adjusted operating income rate increased in the second quarter and first six months of fiscal 2027, primarily due to favorable gross profit rates.\nInternational Segment\nSelected financial data for the International segment was as follows ($ in millions):\nThree Months Ended | Six Months Ended\nAugust 1, 2026 | August 2, 2025 | August 1, 2026 | August 2, 2025\nRevenue | 709 | 740 | 1,396 | 1,380\nRevenue % change | (4.2) | 11.3 | 1.2 | 5.4\nComparable sales % change | (1.8) | 7.6 | 1.3 | 3.5\nGross profit | 158 | 161 | 306 | 302\nGross profit as a % of revenue | 22.3 | 21.8 | 21.9 | 21.9\nAdjusted SG&A (1) | 145 | 143 | 288 | 280\nAdjusted SG&A as a % of revenue (2) | 20.5 | 19.3 | 20.6 | 20.3\nAdjusted operating income (1) | 13 | 18 | 18 | 22\nAdjusted operating income as a % of revenue (3) | 1.8 | 2.4 | 1.3 | 1.6\n(1)Represents segment Adjusted SG&A and segment Adjusted operating income in accordance with ASC 280, Segment Reporting.\n(2)Adjusted SG&A as a % of revenue is calculated as segment Adjusted SG&A divided by segment Revenue.\n(3)Adjusted operating income as a % of revenue is calculated as segment Adjusted operating income divided by segment Revenue.\nInternational segment revenue decreased in the second quarter of fiscal 2027, primarily driven by a comparable sales decline in gaming, partially offset by comparable sales growth in mobile phones and the unfavorable impact of foreign exchange rates.\nInternational segment revenue increased in the first six months of fiscal 2027, primarily driven by comparable sales growth in mobile phones and digital imaging, partially offset by a comparable sales decline in gaming.\nTable of Contents\nInternational segment revenue mix percentages and comparable sales percentage changes by revenue category were as follows:\nRevenue Mix | Comparable Sales\nThree Months Ended | Three Months Ended\nAugust 1, 2026 | August 2, 2025 (1) | August 1, 2026 | August 2, 2025 (1)\nComputing and Mobile Phones | 47 | 46 | 2.1 | 9.1",
+   "distance": 0.3204,
+   "ticker": "BBY",
+   "form_type": "10-Q",
+   "filing_date": "2026-09-04",
+   "period_end": "2026-08-01",
+   "section": "MD&A",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000042/bby-20260801.htm",
+   "eid": "E3"
+  },
+  {
+   "chunk_id": "BBY_10-K_2026-03-18_000009::risk-factors::0001",
+   "text": "These macroeconomic conditions impact consumer behavior and spending in various ways, including:\n\u2022whether consumers make a purchase;\n\u2022how frequently consumers upgrade or replace their devices;\n\u2022consumers' choice of brand, model or price-point; and\n\u2022consumers' appetite for complementary services (for example, My Best Buy Plus\u2122 or My Best Buy Total\u2122 membership).\nAny decrease in consumer demand due to macroeconomic conditions may negatively impact our financial results.\nWe are subject to specific pressures that may increase our product prices, including high consumer demand, inflation, governmental actions (e.g., tariffs) and supply chain disruptions. Additionally, price increases in the products we purchase for resale may require us to adjust our sales prices. Our ability to increase prices to offset these pressures might be limited, requiring us to absorb these increases within our margins. Increases in the cost of living may also put pressure on our ability to offer competitive compensation and other employer-provided benefits and may adversely affect our financial results. Any economic factors or circumstances resulting in higher costs for transportation, labor, insurance, healthcare or commodities can increase our operating, selling, general and administrative costs and otherwise materially adversely affect our financial results.\nTable of Contents\nGeopolitical pressures may adversely impact our supply chain, the cost of our products or revenues and financial results.\nGeopolitical tensions, both domestic and international, including issues related to trade routes, political instability and divisiveness, the potential implementation of more restrictive trade policies, tariff increases and/or volatility, the realignment of alliances or the renegotiation of existing trade agreements could continue to have a material adverse impact on our business.",
+   "distance": 0.3237,
+   "ticker": "BBY",
+   "form_type": "10-K",
+   "filing_date": "2026-03-18",
+   "period_end": "2026-01-31",
+   "section": "Risk Factors",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000009/bby-20260131.htm",
+   "eid": "E4"
+  },
+  {
+   "chunk_id": "BBY_10-Q_2026-09-04_000042::md-a::0006",
+   "text": "Comparable sales increased in the second quarter of fiscal 2027, primarily driven by computing, home theater, AI glasses and trading cards. This growth was partially offset by a comparable sales decline in the traditional gaming category.\nComparable sales increased in the first six months of fiscal 2027, primarily driven by computing, mobile phones, AI glasses, home theater and trading cards, partially offset by comparable sales declines in large appliances and the traditional gaming category.\nWe recorded a reduction to restructuring charges in the second quarter and first six months of fiscal 2027, primarily related to subsequent adjustments for termination benefits associated with previously planned organizational changes. Refer to Note 2, Restructuring, of the Notes to Consolidated Financial Statements for additional information.\nOperating income rate increased in the second quarter and first six months of fiscal 2027, primarily due to lower restructuring charges and favorable gross profit rates.\nDiluted EPS increased in the second quarter and first six months of fiscal 2027, primarily due to higher operating income.\nRevenue, gross profit rate, SG&A rate and operating income rate changes in the second quarter and first six months of fiscal 2027 were primarily driven by our Domestic segment. For further discussion of our Domestic and International segments, see Segment Performance Summary, below.\nTable of Contents\nStore Summary\nStores open by segment were as follows:\nAugust 1, 2026 | August 2, 2025\nBest Buy | 886 | 885\nOutlet Centers | 18 | 23\nPacific Sales | 20 | 20\nYardbird | 2 | 21\nTotal Domestic stores | 926 | 949\nCanada Best Buy stores | 130 | 128\nCanada Best Buy Mobile stand-alone stores | 12 | 28\nTotal International stores (1) | 142 | 156\nTotal stores | 1,068 | 1,105\n(1)Excludes Best Buy Express stores leased by Bell Canada.\nWe continuously monitor store performance as part of a market-driven, omnichannel strategy. As we approach the expiration of leases, we evaluate various options for each location, including whether a store should remain open. We currently expect to increase our Domestic segment Best Buy store count by an additional two stores by the end of fiscal 2027.\nIncome Tax Expense",
+   "distance": 0.3572,
+   "ticker": "BBY",
+   "form_type": "10-Q",
+   "filing_date": "2026-09-04",
+   "period_end": "2026-08-01",
+   "section": "MD&A",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000042/bby-20260801.htm",
+   "eid": "E5"
+  },
+  {
+   "chunk_id": "BBY_10-K_2026-03-18_000009::risk-factors::0002",
+   "text": "While we directly import approximately 1% to 3% of our overall assortment, our global supply chain for consumer electronics is heavily reliant on vendor imports from foreign countries (including products sourced from China, Mexico and Southeast Asia). Consequently, our financial results are highly sensitive to changes in trade policies, tariffs and cross-border logistics. The scope, timing, and implementation of these policies remains uncertain and may result in new or modified tariff regimes, additional regulatory requirements, or further trade friction with U.S. trading partners. The uncertainty caused by ongoing tariff volatility creates challenges for planning inventory, pricing and supply chain strategies, which could continue to impact our cost structure, supply chain stability and overall financial results.\nOngoing or emerging conflicts, including those in the Middle East, Ukraine and the South China Sea, may continue to impact fuel prices, inflation, the global supply chain, cybersecurity and other macroeconomic conditions, which may further adversely affect global economic growth, consumer confidence and demand for our products and services. For example, any further deterioration of relations between Taiwan and China, the resulting actions taken, the response of the international community and other factors affecting trade with China or political or economic conditions in Taiwan could disrupt the manufacturing and distribution of products or hardware components in the region, such as semiconductors and television panels sourced from Taiwan or the broader array of products sourced from China. Additionally, conflict in the Middle East, and the resulting disruption of transit through the Persian Gulf and the Strait of Hormuz, continues to disrupt global supply chain flows and impact fuel prices. Furthermore, these conflicts or other international policies and efforts may impact, or continue to impact, our critical international trade routes, such as the Panama Canal, the Red Sea and the Suez Canal. Such disruptions may increase shipping times or costs, which could adversely affect our operations and financial results.",
+   "distance": 0.3577,
+   "ticker": "BBY",
+   "form_type": "10-K",
+   "filing_date": "2026-03-18",
+   "period_end": "2026-01-31",
+   "section": "Risk Factors",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000009/bby-20260131.htm",
+   "eid": "E6"
+  },
+  {
+   "chunk_id": "BBY_10-K_2026-03-18_000009::risk-factors::0000",
+   "text": "Item 1A. Risk Factors.\nDescribed below are certain risks we believe apply to our business and the industry in which we operate. The risks are categorized using the following headings: external, strategic, operational, regulatory, compliance and legal, and financial and market. Each of the following risk factors should be carefully considered in conjunction with other information provided in this Annual Report on Form 10-K and in our other public disclosures. The risks described below highlight potential events, trends or other circumstances that could adversely affect our business, financial condition, results of operations, cash flows, liquidity or access to sources of financing and, consequently, the market value of our common stock and debt instruments. These risks could cause our future results to differ materially from historical results and from guidance we may provide regarding our expectations of future financial performance. The risks described below are not an exhaustive list of all the risks we face. There may be others that we have not identified or that we have deemed to be immaterial. All forward-looking statements made by us or on our behalf are qualified by the risks described below.\nExternal Risks\nMacroeconomic pressures may adversely affect consumer spending and our financial results.\nTo varying degrees, our products and services are sensitive to changes in macroeconomic conditions. Consumer demand for the products and services that we offer could be, or could continue to be, affected by a number of factors, including: real GDP growth, inflation, recession, consumer confidence, employment levels, effects of government closures, cost of living, uncertainty over the availability of government benefits, tax rates, availability of consumer financing, interest rates, housing market conditions, foreign currency exchange rates, the price of oil, gas and other commodities and other macroeconomic trends. Additionally, the impact of these factors could be compounded with respect to discretionary purchases of consumer electronics.\nThese macroeconomic conditions impact consumer behavior and spending in various ways, including:\n\u2022whether consumers make a purchase;\n\u2022how frequently consumers upgrade or replace their devices;\n\u2022consumers' choice of brand, model or price-point; and",
+   "distance": 0.3703,
+   "ticker": "BBY",
+   "form_type": "10-K",
+   "filing_date": "2026-03-18",
+   "period_end": "2026-01-31",
+   "section": "Risk Factors",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000009/bby-20260131.htm",
+   "eid": "E7"
+  },
+  {
+   "chunk_id": "BBY_10-Q_2026-09-04_000042::md-a::0008",
+   "text": "Table of Contents\nSegment Performance Summary\nDomestic Segment\nSelected financial data for the Domestic segment was as follows ($ in millions):\nThree Months Ended | Six Months Ended\nAugust 1, 2026 | August 2, 2025 | August 1, 2026 | August 2, 2025\nRevenue | 9,070 | 8,698 | 17,319 | 16,825\nRevenue % change | 4.3 | 0.9 | 2.9 | -\nComparable sales % change (1) | 4.5 | 1.1 | 3.2 | 0.2\nGross profit | 2,180 | 2,033 | 4,134 | 3,941\nGross profit as a % of revenue | 24.0 | 23.4 | 23.9 | 23.4\nAdjusted SG&A (2) | 1,776 | 1,682 | 3,372 | 3,261\nAdjusted SG&A as a % of revenue (3) | 19.6 | 19.3 | 19.5 | 19.4\nAdjusted operating income (2) | 404 | 351 | 762 | 680\nAdjusted operating income as a % of revenue (4) | 4.5 | 4.0 | 4.4 | 4.0\nSelected Online Revenue Data\nTotal online revenue | 3,002 | 2,856 | 5,618 | 5,435\nOnline revenue as a % of total segment revenue | 33.1 | 32.8 | 32.4 | 32.3\nComparable online sales % change (1) | 5.1 | 5.1 | 3.4 | 3.7\n(1)Comparable online sales are included in the comparable sales calculation.\n(2)Represents segment Adjusted SG&A and segment Adjusted operating income in accordance with Accounting Standards Codification (\"ASC\") 280, Segment Reporting.\n(3)Adjusted SG&A as a % of revenue is calculated as segment Adjusted SG&A divided by segment Revenue.\n(4)Adjusted operating income as a % of revenue is calculated as segment Adjusted operating income divided by segment Revenue.\nDomestic segment revenue increased in the second quarter of fiscal 2027, primarily driven by comparable sales growth in computing, home theater, AI glasses and trading cards. This growth was partially offset by a comparable sales decline in the traditional gaming category.\nDomestic segment revenue increased in the first six months of fiscal 2027, primarily driven by comparable sales growth in computing, AI glasses, home theater, mobile phones and trading cards, partially offset by a comparable sales decline in large appliances.\nDomestic segment revenue mix percentages and comparable sales percentage changes by revenue category were as follows:\nRevenue Mix | Comparable Sales\nThree Months Ended | Three Months Ended\nAugust 1, 2026 | August 2, 2025 (1) | August 1, 2026 | August 2, 2025 (1)\nComputing and Mobile Phones | 46 | 44 | 6.8 | 3.8\nConsumer Electronics | 27 | 27 | 5.6 | (5.2)\nAppliances | 12 | 12 | 0.2 | (9.2)\nServices | 9 | 9 | 6.4 | 3.7",
+   "distance": 0.3725,
+   "ticker": "BBY",
+   "form_type": "10-Q",
+   "filing_date": "2026-09-04",
+   "period_end": "2026-08-01",
+   "section": "MD&A",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000042/bby-20260801.htm",
+   "eid": "E8"
+  },
+  {
+   "chunk_id": "BBY_10-Q_2026-09-04_000042::md-a::0009",
+   "text": "Three Months Ended | Three Months Ended\nAugust 1, 2026 | August 2, 2025 (1) | August 1, 2026 | August 2, 2025 (1)\nComputing and Mobile Phones | 46 | 44 | 6.8 | 3.8\nConsumer Electronics | 27 | 27 | 5.6 | (5.2)\nAppliances | 12 | 12 | 0.2 | (9.2)\nServices | 9 | 9 | 6.4 | 3.7\nEntertainment | 6 | 7 | (6.3) | 39.3\nOther | - | 1 | (21.1) | (18.4)\nTotal | 100 | 100 | 4.5 | 1.1\n(1) Revenue mix and comparable sales by revenue category for the three months ended August 2, 2025, have been recast to conform to the current presentation. See Revenue Category Reclassification, above, for additional information.\nTable of Contents\nNotable comparable sales changes by revenue category were as follows:\n\u2022Computing and Mobile Phones: Comparable sales growth was driven primarily by computing, tablets and mobile phones.\n\u2022Consumer Electronics: Comparable sales growth was driven primarily by home theater.\n\u2022Appliances: Comparable sales growth was driven primarily by large appliances, partially offset by a comparable sales decline in small appliances.\n\u2022Services: Comparable sales growth was driven primarily by Best Buy Marketplace and warranty services.\n\u2022Entertainment: Comparable sales decline was driven primarily by the traditional gaming category, partially offset by comparable sales growth in AI glasses and trading cards.\nDomestic segment gross profit rate increased in the second quarter of fiscal 2027, primarily due to growth in Best Buy Marketplace and Best Buy Ads, and IEEPA tariff refunds of $34 million. These increases were partially offset by lower product margin rates.\nDomestic segment gross profit rate increased in the first six months of fiscal 2027, primarily due to growth in Best Buy Marketplace and Best Buy Ads, IEEPA tariff refunds of $34 million, lower supply chain costs and improved financial performance from our traditional services offerings. These increases were partially offset by lower product margin rates.\nDomestic segment adjusted SG&A increased in the second quarter of fiscal 2027, primarily due to higher employee compensation expense, which includes incentive compensation, higher expenses related to our Best Buy Marketplace and Best Buy Ads initiatives, and higher advertising expense. These increases were partially offset by lower Best Buy Health expense.",
+   "distance": 0.386,
+   "ticker": "BBY",
+   "form_type": "10-Q",
+   "filing_date": "2026-09-04",
+   "period_end": "2026-08-01",
+   "section": "MD&A",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000042/bby-20260801.htm",
+   "eid": "E9"
+  },
+  {
+   "chunk_id": "BBY_10-K_2026-03-18_000009::md-a::0008",
+   "text": "Operating income rate increased in fiscal 2026, primarily due to lower goodwill and intangible asset impairments, partially offset by higher restructuring charges.\nDiluted EPS increased in fiscal 2026, primarily due to higher net earnings driven by lower goodwill and intangible asset impairments, partially offset by higher restructuring charges.\nIn fiscal 2026, revenue changes were primarily driven by our International segment, and operating income rate changes were primarily driven by our Domestic segment. Gross profit rate and SG&A rate changes in fiscal 2026 were driven by both of our segments. For further discussion of our Domestic and International segments, see Segment Performance Summary, below.\nTable of Contents\nStore Summary\nStores open by segment were as follows:\nJanuary 31, 2026 | February 1, 2025 | February 3, 2024\nBest Buy | 886 | 891 | 901\nOutlet Centers | 18 | 25 | 22\nPacific Sales | 20 | 20 | 20\nYardbird | 2 | 21 | 22\nTotal Domestic stores | 926 | 957 | 965\nCanada Best Buy stores | 130 | 129 | 128\nCanada Best Buy Mobile stand-alone stores | 12 | 31 | 32\nTotal International stores (1) | 142 | 160 | 160\nTotal stores | 1,068 | 1,117 | 1,125\n(1)Excludes Best Buy Express stores leased by Bell Canada.\nWe continuously monitor store performance as part of a market-driven, omnichannel strategy. As we approach the expiration of leases, we evaluate various options for each location, including whether a store should remain open. We currently expect to increase our Domestic segment Best Buy store count by approximately 4 stores by the end of fiscal 2027.\nIn fiscal 2026, we closed select non-traditional Domestic and International store locations in conjunction with our restructuring initiative that commenced in the second quarter of fiscal 2026, with additional closures expected in fiscal 2027. See Note 2, Restructuring, of the Notes to Consolidated Financial Statements, included in this Annual Report on Form 10-K for additional information.\nIncome Tax Expense",
+   "distance": 0.3885,
+   "ticker": "BBY",
+   "form_type": "10-K",
+   "filing_date": "2026-03-18",
+   "period_end": "2026-01-31",
+   "section": "MD&A",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000009/bby-20260131.htm",
+   "eid": "E10"
+  },
+  {
+   "chunk_id": "BBY_10-Q_2026-09-04_000042::md-a::0001",
+   "text": "Comparable Sales\nThroughout this MD&A, we refer to comparable sales. Comparable sales is a metric used by management to evaluate the performance of our existing stores and digital offerings by measuring the change in net sales for a particular period over the comparable prior period of equivalent length.\nComparable sales includes revenue from stores operating for at least 14 full months; sales initiated on a website, app or virtual store; advertising revenue; commercial sales; credit card revenue; gift card breakage; marketplace commission revenue; and sales of merchandise to wholesalers and dealers. Revenue from acquisitions is included in comparable sales beginning with the first full quarter following the first anniversary of the date of the acquisition. Comparable sales excludes revenue from stores closed more than 14 days (including but not limited to relocated, remodeled, expanded and downsized stores, or stores impacted by natural disasters) until at least 14 full months after reopening; the impact of certain periodic warranty-related profit-share revenue; the effect of fluctuations in foreign currency exchange rates (applicable to our International segment only); and the impact of the 53rd week (applicable in 53-week fiscal years only). Comparable sales is based on our fiscal calendar and is not adjusted to align calendar weeks. All periods presented apply this methodology consistently.\nComparable online sales is a subset of comparable sales related to our digital offerings and includes sales initiated on a website, app or virtual store; advertising revenue and marketplace commission revenue.\nWe believe comparable sales is a meaningful supplemental metric for investors to evaluate revenue performance resulting from growth in existing stores and digital offerings versus the portion resulting from opening new stores or closing existing stores. The method of calculating comparable sales varies across the retail industry. As a result, our method of calculating comparable sales may not be the same as other retailers\u2019 methods.\nRevenue Category Reclassification",
+   "distance": 0.3943,
+   "ticker": "BBY",
+   "form_type": "10-Q",
+   "filing_date": "2026-09-04",
+   "period_end": "2026-08-01",
+   "section": "MD&A",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000042/bby-20260801.htm",
+   "eid": "E11"
+  },
+  {
+   "chunk_id": "BBY_10-K_2026-03-18_000009::risk-factors::0016",
+   "text": "Table of Contents\nOur ability to find qualified vendors who can supply products that meet our internal standards of quality and safety in a timely and efficient manner can be difficult, especially with respect to goods sourced from outside the U.S. Risks such as political or economic instability, cross-border trade restrictions or tariffs, merchandise quality issues, product safety concerns, work stoppages, human rights violations, port delays, foreign currency exchange rate fluctuations, transportation capacity and costs, inflation, civil unrest, natural disasters, outbreaks of pandemics and other factors relating to foreign trade are beyond our control. These and other related issues could have a material adverse impact on our financial results.\nBecause we have greater responsibility for products under our exclusive brand labels, recalls or safety issues involving these products may present heightened risks compared to branded goods, including:\n\u2022exposure and responsibility to consumers for warranty replacements and repairs as well as product liability claims (including bodily injury or death) and government-enforced actions, some of which may require us to take significant actions, such as recalling products;\n\u2022inventory obsolescence as we do not generally have return-to-vendor rights;\n\u2022disruptions in manufacturing or logistics due to inconsistent and unanticipated order patterns;\n\u2022our inability to develop long-term relationships with key manufacturers;\n\u2022claims by technology or other intellectual property owners if we inadvertently infringe upon their patents or other intellectual property rights or if we fail to pay royalties owed on our exclusive brand products;\n\u2022inability to obtain or adequately protect patents and other intellectual property rights on our exclusive brand products or manufacturing processes; and\n\u2022failure to maintain consistent quality, availability and competitive pricing, which could have a material adverse impact on the demand for exclusive brand products and the profits we are able to generate from them.\nMost of our exclusive brand products are manufactured by contract manufacturers in China, Mexico and Southeast Asia, which may limit our ability to do the following:\n\u2022seek recourse from manufacturers may be limited in foreign jurisdictions;",
+   "distance": 0.4039,
+   "ticker": "BBY",
+   "form_type": "10-K",
+   "filing_date": "2026-03-18",
+   "period_end": "2026-01-31",
+   "section": "Risk Factors",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000009/bby-20260131.htm",
+   "eid": "E12"
+  },
+  {
+   "chunk_id": "BBY_8-K-earnings_2026-05-28_000018::earnings-release::0001",
+   "text": "\u201cI look forward to working closely with our teams to build on the progress we are making, specifically focusing on four areas to grow our business: (1) advancing Best Buy as a Retail, Media and Advertising, and Technology company; (2) expanding and growing our reach; (3) elevating the Best Buy experience; and (4) being a human-\npowered, customer-focused company,\u201d said Jason Bonfig, Best Buy Chief Customer, Product and Fulfillment Officer and incoming CEO (effective November 1, 2026).\nFY27 Financial Guidance\n\u201cWe are pleased with our first quarter results and are maintaining our guidance for the year,\u201d said Matt Bilunas, Best Buy CFO. \u201cComparable sales have started strong in May, with month-to-date growth up high single digits. Our comparable sales outlook for the full quarter is approximately 1.0% growth as we start to lap last year\u2019s very successful gaming launch in June. We expect our Q2 adjusted operating income rate to be approximately 3.9%, which is flat to last year.\u201d\nThe company is reiterating the following full-year FY27 financial guidance provided on March 3, 2026:\n\u2022Revenue of $41.2 billion to $42.1 billion\n\u2022Comparable sales % change1 of (1.0%) to 1.0%\n\u2022Adjusted operating income rate2 of 4.3% to 4.4%\n\u2022Adjusted effective income tax rate2 of approximately 25.5%\n\u2022Adjusted diluted EPS2 of $6.30 to $6.60\n\u2022Capital expenditures of approximately $750 million\nDomestic Segment Q1 FY27 Results\nDomestic Revenue\nDomestic revenue of $8.25 billion increased 1.5% versus last year, primarily driven by comparable sales growth of 1.8%.\nFrom a category perspective, the largest drivers of the comparable sales growth on a weighted basis were gaming, computing, mobile phones and services. These drivers were partially offset by a decline in appliances.\nDomestic online revenue of $2.62 billion increased 1.4% on a comparable basis, and as a percentage of total Domestic revenue, online revenue was flat to last year at 31.7%.\nDomestic Gross Profit Rate\nDomestic gross profit rate was 23.7% versus 23.5% last year. The higher gross profit rate included growth in Marketplace and Best Buy Ads, and improved financial performance from the company's traditional services offerings. The previous items were largely offset by lower product margin rates.\nDomestic Adjusted Selling, General and Administrative Expenses (\u201cSG&A\u201d)",
+   "distance": 0.3447,
+   "ticker": "BBY",
+   "form_type": "8-K-earnings",
+   "filing_date": "2026-05-28",
+   "period_end": "",
+   "section": "Earnings Release",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000018/bby-fy27q1xexx991.htm",
+   "eid": "E13"
+  },
+  {
+   "chunk_id": "BBY_8-K-earnings_2026-08-27_000037::earnings-release::0001",
+   "text": "\u201cThe strength of our Q2 results reflects both the deliberate actions we have taken to position the business for growth and a healthy demand environment for our category,\u201d said Jason Bonfig, Best Buy Chief Customer, Product and Fulfillment Officer, and incoming CEO (effective November 1, 2026). \u201cOver the past several years, we have invested in areas that matter most to customers, including elevating specialty expertise in our stores, partnering closely with our vendors to bring innovation to market, and improving fulfillment speed and execution across our supply chain.\u201d\n\u201cWe are raising our annual financial guidance due to the strong first half performance and our momentum as we enter the second half of the year,\u201d continued Bonfig. \u201cI want to extend my appreciation to our employees across the company for their commitment to our customers and for the strong execution of our strategy.\u201d\nFY27 Financial Guidance\nThe company\u2019s FY27 financial guidance is as follows:\n\u2022Revenue of $42.3 billion to $42.8 billion, compared to prior guidance of $41.2 billion to $42.1 billion\n\u2022Comparable sales % change1 of 1.9% to 3.0%, compared to prior guidance of (1.0%) to 1.0%\n\u2022Adjusted operating income rate2 of 4.4% to 4.5%, compared to prior guidance of 4.3% to 4.4%\n\u2022Adjusted effective income tax rate2 of approximately 25.5%, which is unchanged\n\u2022Adjusted diluted EPS2 of $6.70 to $6.90, compared to prior guidance of $6.30 to $6.60\n\u2022Capital expenditures of approximately $750 million, which is unchanged\nThe company expects Q3 FY27 comparable sales to be in the range of 1.0% to 3.0% and adjusted operating income rate to be in the range of 4.1% to 4.2%.\nDomestic Segment Q2 FY27 Results\nDomestic Revenue\nDomestic revenue of $9.07 billion increased 4.3% versus last year, primarily driven by comparable sales growth of 4.5%.\nFrom a category perspective, the company generated comparable sales growth across most of its categories, with the largest drivers on a weighted basis being computing, home theater, and a collection of emerging categories such as AI glasses and trading cards. These drivers were partially offset by a decline in the traditional gaming category.\nDomestic online revenue of $3.00 billion increased 5.1% on a comparable basis, and as a percentage of total Domestic revenue, online revenue was 33.1% versus 32.8% last year.\nDomestic Gross Profit Rate",
+   "distance": 0.3606,
+   "ticker": "BBY",
+   "form_type": "8-K-earnings",
+   "filing_date": "2026-08-27",
+   "period_end": "",
+   "section": "Earnings Release",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000037/bby-fy27q2xexx99.htm",
+   "eid": "E14"
+  },
+  {
+   "chunk_id": "BBY_8-K-earnings_2026-08-27_000037::earnings-release::0000",
+   "text": "EX-99\nbby-fy27q2xexx99.htm\nEX-99\nDocument\nExhibit 99\nBest Buy Reports Second Quarter Results\nComparable Sales Increased 4.1%\nDiluted EPS Increased 70% to $1.48\nAdjusted Diluted EPS Increased 15% to $1.47\nRaises FY27 Comparable Sales Guidance to 1.9% to 3.0%\nRaises FY27 Adjusted Diluted EPS Guidance to $6.70 to $6.90\nMINNEAPOLIS, August 27, 2026 -- Best Buy Co., Inc. (NYSE: BBY) today announced results for the 13-week second quarter ended August 1, 2026 (\u201cQ2 FY27\u201d), as compared to the 13-week second quarter ended August 2, 2025 (\u201cQ2 FY26\u201d).\nQ2 FY27 | Q2 FY26\nRevenue ($ in millions)\nEnterprise | 9,779 | 9,438\nDomestic segment | 9,070 | 8,698\nInternational segment | 709 | 740\nEnterprise comparable sales % change 1 | 4.1 | 1.6\nDomestic comparable sales % change 1 | 4.5 | 1.1\nDomestic comparable online sales % change 1 | 5.1 | 5.1\nInternational comparable sales % change 1 | (1.8) | 7.6\nOperating Income\nOperating income as a % of revenue | 4.3 | 2.7\nAdjusted operating income as a % of revenue | 4.3 | 3.9\nDiluted Earnings per Share (\"EPS\")\nDiluted EPS | 1.48 | 0.87\nAdjusted diluted EPS | 1.47 | 1.28\nFor GAAP to non-GAAP reconciliations of the consolidated adjusted measures used throughout this release, please refer to the attached supporting schedule.\n\u201cWe are very pleased to report we outperformed expectations in the second quarter with comparable sales growth of 4.1% and a higher-than-expected adjusted operating income rate,\u201d said Corie Barry, Best Buy CEO. \u201cWe drove growth across almost all our major product categories as well as continued strong performance in our Best Buy Ads and Marketplace initiatives.\u201d\nBarry continued, \u201cAs I wrap up my remaining months with Best Buy, I\u2019m reflecting on the dedication of our teams and the investments we\u2019ve made, and I\u2019m proud of the way we\u2019ve evolved our business. Together, we have built a stronger, more resilient Best Buy, strengthened our position as a trusted partner in our customers\u2019 lives and carved out a unique role at the intersection of technology, services and human connection.\u201d",
+   "distance": 0.3467,
+   "ticker": "BBY",
+   "form_type": "8-K-earnings",
+   "filing_date": "2026-08-27",
+   "period_end": "",
+   "section": "Earnings Release",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000037/bby-fy27q2xexx99.htm",
+   "eid": "E15"
+  },
+  {
+   "chunk_id": "BBY_8-K-earnings_2026-05-28_000018::earnings-release::0000",
+   "text": "EX-99.1\nbby-fy27q1xexx991.htm\nEX-99.1\nDocument\nExhibit 99.1\nBest Buy Reports First Quarter Results\nComparable Sales Increased 2.0%\nDiluted EPS Increased 38% to $1.31\nAdjusted Diluted EPS Increased 11% to $1.28\nReiterates FY27 Adjusted Diluted EPS Guidance of $6.30 to $6.60\nMINNEAPOLIS, May 28, 2026 -- Best Buy Co., Inc. (NYSE: BBY) today announced results for the 13-week first quarter ended May 2, 2026 (\u201cQ1 FY27\u201d), as compared to the 13-week first quarter ended May 3, 2025 (\u201cQ1 FY26\u201d).\nQ1 FY27 | Q1 FY26\nRevenue ($ in millions)\nEnterprise | 8,936 | 8,767\nDomestic segment | 8,249 | 8,127\nInternational segment | 687 | 640\nEnterprise comparable sales % change 1 | 2.0 | (0.7)\nDomestic comparable sales % change 1 | 1.8 | (0.7)\nDomestic comparable online sales % change 1 | 1.4 | 2.1\nInternational comparable sales % change 1 | 4.7 | (0.7)\nOperating Income\nOperating income as a % of revenue | 4.1 | 2.5\nAdjusted operating income as a % of revenue | 4.1 | 3.8\nDiluted Earnings per Share (\"EPS\")\nDiluted EPS | 1.31 | 0.95\nAdjusted diluted EPS | 1.28 | 1.15\nFor GAAP to non-GAAP reconciliations of the consolidated adjusted measures used throughout this release, please refer to the attached supporting schedule.\n\u201cToday we are pleased to report better-than-expected results for the first quarter,\u201d said Corie Barry, Best Buy CEO. \u201cOur comparable sales grew 2% versus last year, higher than our outlook, with positive comps across the majority of our major product categories and strong performance in our Best Buy Ads and Marketplace initiatives. We also drove operating income rate expansion and EPS growth.\u201d\nBarry continued, \u201cThanks to our incredibly dedicated employees, we are delivering on our strategy to strengthen our position in retail as a leading omni-channel destination for technology while at the same time scaling new profit streams like Best Buy Ads and Marketplace that we expect to provide considerable benefit over time.\u201d\n\u201cWith this momentum, I believe it is the right time to transition the leadership of Best Buy, and step down as CEO later this year,\u201d continued Barry. \u201cWith his unmatched experience and focus on the customer, I know Jason Bonfig is the right person to take Best Buy into its next phase, which is outlined by his four priorities.\u201d",
+   "distance": 0.3316,
+   "ticker": "BBY",
+   "form_type": "8-K-earnings",
+   "filing_date": "2026-05-28",
+   "period_end": "",
+   "section": "Earnings Release",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000018/bby-fy27q1xexx991.htm",
+   "eid": "E16"
+  },
+  {
+   "chunk_id": "BBY_8-K-earnings_2026-08-27_000037::earnings-release::0003",
+   "text": "Share Repurchases and Dividends\nIn Q2 FY27, the company returned a total of $239 million to shareholders through dividends of $203 million and share repurchases of $36 million. On a year-to-date basis, the company has returned a total of $441 million to shareholders through dividends of $405 million and share repurchases of $36 million. The company expects to spend approximately $300 million on share repurchases during FY27.\nToday, the company announced its board of directors has authorized the payment of a regular quarterly cash dividend of $0.96 per common share. The regular quarterly dividend is payable on October 8, 2026, to shareholders of record as of the close of business on September 17, 2026.\nConference Call\nBest Buy is scheduled to conduct an earnings conference call at 8:00 a.m. Eastern Time (7:00 a.m. Central Time) on August 27, 2026. A webcast of the call is expected to be available at www.investors.bestbuy.com, both live and after the call.\nNotes:\n(1) The method of calculating comparable sales varies across the retail industry. As a result, our method of calculating comparable sales may not be the same as other retailers\u2019 methods. For additional information on comparable sales, please see our most recent Annual Report on Form 10-K, and our subsequent Quarterly Reports on Form 10-Q, filed with the Securities and Exchange Commission (\u201cSEC\u201d), and available at www.investors.bestbuy.com.",
+   "distance": 0.3565,
+   "ticker": "BBY",
+   "form_type": "8-K-earnings",
+   "filing_date": "2026-08-27",
+   "period_end": "",
+   "section": "Earnings Release",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000037/bby-fy27q2xexx99.htm",
+   "eid": "E17"
+  }
+ ],
+ "momentum": 0.6800665299002088,
+ "theses": [
+  {
+   "id": "BEAR1",
+   "side": "bear",
+   "text": "Macro conditions have turned against discretionary consumer-electronics spending heading into the holiday quarter. The 10-year yield rose from 4.65% to 5.07% and the 2-year from 4.19% to 4.80% over about three months. The high-yield spread widened from 2.73% to 3.47%, VIX jumped from 14.89 to 24.56, and CPI ran 3.7% year over year. BBY's own 10-K says its products are sensitive to interest rates, inflation, consumer financing availability and confidence, and that the impact 'could be compounded with respect to discretionary purchases of consumer electronics.' That leaves a high-beta discretionary retailer exposed to a demand and multiple squeeze within 90 days.",
+   "evidence_ids": [
+    "E2",
+    "E7",
+    "E4"
+   ]
+  },
+  {
+   "id": "BEAR2",
+   "side": "bear",
+   "text": "The Q2 FY27 margin improvement looks lower-quality than the headline implies. Domestic gross profit rate rose to 24.0% from 23.4%, but the 10-Q attributes this partly to one-time IEEPA tariff refunds of $34 million, and it notes 'lower product margin rates.' Domestic adjusted SG&A rate rose to 19.6% from 19.3% on higher incentive compensation, Marketplace/Ads spending, advertising and card fees. Reported operating income rate was also helped by a reduction to restructuring charges. International weakened as well: revenue fell 4.2%, comps fell 1.8%, and adjusted operating income dropped to 13 from 18. Absent the refund, the underlying merchandise margin trend is negative. Meanwhile, the 10-K flags ongoing tariff volatility and limited ability to pass through cost increases.",
+   "evidence_ids": [
+    "E9",
+    "E8",
+    "E3",
+    "E5",
+    "E4",
+    "E6"
+   ]
+  },
+  {
+   "id": "BEAR3",
+   "side": "bear",
+   "text": "Insider selling sends a cautionary signal. Over the last 90 days, Form 4 data show 4 open-market sales by 2 insiders totaling 416,062 shares, about $38,449,577, with zero purchases. None of the 4 sales were under a Rule 10b5-1 plan, which suggests discretionary timing. The largest was by founder SCHULZE RICHARD M: 247,340 shares on 2026-09-16 at $92.43, shortly after the strong Q2 10-Q filed 2026-09-04. Insiders selling into post-earnings strength, with no offsetting buying, weakens the case for near-term outperformance as macro risk rises.",
+   "evidence_ids": [
+    "E1",
+    "E8"
+   ]
+  },
+  {
+   "id": "BULL1",
+   "side": "bull",
+   "text": "Domestic demand is accelerating into the holiday quarter. Per the 10-Q filed 2026-09-04, Domestic comparable sales rose 4.5% in Q2 FY27, versus 1.1% a year earlier. Revenue reached $9,070M versus $8,698M. Growth was broad: Computing and Mobile Phones comps were up 6.8%, Consumer Electronics up 5.6% (vs (5.2) last year) and Services up 6.4%. Drivers were computing, home theater, AI glasses and trading cards. Comparable online sales grew 5.1%. If that upgrade-cycle momentum carries into the holiday-heavy reporting window over the next 90 days, it could support upside surprises relative to the broader market.",
+   "evidence_ids": [
+    "E8",
+    "E9",
+    "E5"
+   ]
+  },
+  {
+   "id": "BULL2",
+   "side": "bull",
+   "text": "Margin mix is shifting toward higher-margin revenue streams. Domestic gross profit rate rose to 24.0% from 23.4%. The 10-Q attributes this to growth in Best Buy Marketplace and Best Buy Ads, plus $34 million of IEEPA tariff refunds. Domestic adjusted operating income rose to $404M from $351M, and the rate expanded to 4.5% from 4.0%. Lower restructuring charges and lower supply chain costs added to operating income rate gains. Continued earnings leverage from these initiatives is a potential catalyst for the next earnings print.",
+   "evidence_ids": [
+    "E9",
+    "E8",
+    "E5",
+    "E3"
+   ]
+  },
+  {
+   "id": "BULL3",
+   "side": "bull",
+   "text": "Store-footprint rationalization is largely behind the company and is now supporting profitability. Total stores fell to 1,068 from 1,105 year over year, mainly non-traditional formats: Yardbird went from 21 to 2, and Canada Best Buy Mobile from 28 to 12. Meanwhile, the core Best Buy store count held at 886, with two more Domestic stores expected by year-end FY27. The 10-Q also recorded a reduction to restructuring charges. A cleaner cost base heading into peak season could help BBY keep growing earnings even with elevated macro uncertainty. That uncertainty includes a VIX of 24.56 and a 10-year yield of 5.07% per FRED, and open-market insider sales with no purchases over the period. These are the key risks to this thesis.",
+   "evidence_ids": [
+    "E5",
+    "E10",
+    "E2",
+    "E1"
+   ]
+  }
+ ],
+ "rebuttals": [
+  {
+   "thesis_id": "BEAR2",
+   "counter_argument": "Strip out the refund and the margin story still holds. The $34M IEEPA refund is about 0.37 pts of Domestic Q2 revenue ($34M / $9,070M). Without it, Domestic gross margin would be roughly 23.6% versus 23.4% a year ago, still up. Domestic adjusted operating income would be about $370M versus $351M, up roughly 5%, and the rate would be about 4.1% versus 4.0% (E8, E9). The expansion is not a one-off. Q1 Domestic gross margin rose to 23.7% from 23.5% with no refund, driven by Marketplace, Best Buy Ads and services. That is the same structural mix shift that 'more than offset lower product margin rates' in both quarters (E13, E9). For the first six months, the 10-Q also credits lower supply chain costs and better traditional services results (E9). The restructuring point does not apply to the core metric: enterprise adjusted operating income rate, which excludes restructuring, still rose to 4.3% from 3.9%. Adjusted diluted EPS rose 15% (E15). The SG&A increase is largely investment and success-linked. Incentive compensation rises with outperformance, and Marketplace/Ads spending funds the higher-margin revenue streams driving gross margin. The SG&A rate rose only 0.3 pts while the gross margin rate rose 0.6 pts (E3, E8, E9). Organic demand was broad: Domestic comps grew 4.5% across computing, home theater, services, appliances and emerging categories (E8, E9, E14). International is about 7% of enterprise revenue ($709M of $9,779M) and was still up on a six-month basis: revenue +1.2% and comps +1.3%. Its Q2 dip came mainly from lapping a +7.6% gaming-driven comp (E3, E15). Management saw the full picture, including the 10-K's tariff and pricing risks (E6). It still raised FY27 guidance: EPS to $6.70\u2013$6.90 from $6.30\u2013$6.60, adjusted operating income rate to 4.4\u20134.5%, and comps to 1.9\u20133.0%. It also guided Q3 adjusted operating income rate to 4.1\u20134.2% without counting on a refund (E14). This momentum continued from Q1, which also beat expectations (E16).",
+   "evidence_ids": [
+    "E8",
+    "E9",
+    "E13",
+    "E15",
+    "E3",
+    "E14",
+    "E16",
+    "E6"
+   ],
+   "by": "bull"
+  },
+  {
+   "thesis_id": "BULL1",
+   "counter_argument": "Q2 was a peak, not a launchpad. Management's own Q3 guide calls for only 1.0%\u20133.0% comps, a deceleration from 4.5% Domestic. Even the raised full-year comp guide of 1.9%\u20133.0% implies a slower second half after a strong first half. Q2 strength leaned on novelty categories like AI glasses and trading cards. Traditional gaming kept declining, with Entertainment comps at -6.3%, and the year-ago gaming launch comparison already showed how lumpy these drivers are. International went negative, with comps at -1.8% and revenue down 4.2%. The macro backdrop has deteriorated sharply since the quarter closed. The 10-year yield rose to 5.07% from 4.65% and the 2-year to 4.80% from 4.19%. HY spreads widened to 3.47% from 2.73%, the VIX jumped to 24.56 from 14.89, and CPI is running 3.7%. Best Buy's own risk factors say consumer electronics, as discretionary purchases, are especially sensitive to interest rates, inflation, financing availability and confidence. That can delay upgrades and push buyers to lower price points. Insiders show no confidence in the extrapolation either: zero open-market buys, and about $38.4M of discretionary sales (none under 10b5-1 plans), including Schulze's 247,340 shares at $92.43 shortly after the raise.",
+   "evidence_ids": [
+    "E14",
+    "E9",
+    "E8",
+    "E3",
+    "E15",
+    "E13",
+    "E2",
+    "E7",
+    "E4",
+    "E1"
+   ],
+   "by": "bear"
+  },
+  {
+   "thesis_id": "BULL2",
+   "counter_argument": "The margin gain is lower quality than it looks. Q2 Domestic gross profit rose $147M, but $34M of that, roughly a fifth, came from one-time IEEPA tariff refunds that won't recur. Underlying product margin rates fell, as they also did in Q1, so the core retail business is losing margin. Domestic adjusted SG&A grew 5.6%, faster than revenue's 4.3%. The SG&A rate rose to 19.6% from 19.3%, driven by incentive compensation, the costs of the Marketplace and Ads initiatives themselves, advertising and card fees. The enterprise operating income rate jump was flattered by lower restructuring charges, including a reduction from reversed termination benefits. Adjusted operating income rate was 4.3% versus 3.9%, and management guides Q3 down to 4.1%\u20134.2%. International margins are compressing: operating income fell to $13M from $18M and the rate to 1.8% from 2.4%. The 10-K warns that Best Buy may not be able to pass on tariff, inflation and shipping cost increases and may have to absorb them, with sourcing heavily exposed to China, Mexico, Taiwan and Hormuz-disrupted routes. Strip out the one-off refund and the margin story stalls.",
+   "evidence_ids": [
+    "E9",
+    "E8",
+    "E3",
+    "E13",
+    "E5",
+    "E15",
+    "E14",
+    "E4",
+    "E6",
+    "E12"
+   ],
+   "by": "bear"
+  }
+ ],
+ "result": {
+  "checked": [
+   {
+    "id": "BEAR1",
+    "side": "bear",
+    "text": "Macro conditions have turned against discretionary consumer-electronics spending heading into the holiday quarter. The 10-year yield rose from 4.65% to 5.07% and the 2-year from 4.19% to 4.80% over about three months. The high-yield spread widened from 2.73% to 3.47%, VIX jumped from 14.89 to 24.56, and CPI ran 3.7% year over year. BBY's own 10-K says its products are sensitive to interest rates, inflation, consumer financing availability and confidence, and that the impact 'could be compounded with respect to discretionary purchases of consumer electronics.' That leaves a high-beta discretionary retailer exposed to a demand and multiple squeeze within 90 days.",
+    "evidence_ids": [
+     "E2",
+     "E7",
+     "E4",
+     "E13",
+     "E14",
+     "E15",
+     "E16",
+     "E17"
+    ],
+    "passed": true,
+    "problems": [],
+    "send_backs": [
+     {
+      "thesis": "BEAR1",
+      "query": "Best Buy Q3 fiscal 2027 comparable sales guidance holiday outlook",
+      "added": [
+       "E13",
+       "E14",
+       "E15",
+       "E16"
+      ]
+     },
+     {
+      "thesis": "BEAR1",
+      "query": "Best Buy Q3 FY27 results November 2026 comparable sales holiday outlook consumer demand",
+      "added": [
+       "E17"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "BEAR2",
+    "side": "bear",
+    "text": "The Q2 FY27 margin improvement looks lower-quality than the headline implies. Domestic gross profit rate rose to 24.0% from 23.4%, but the 10-Q attributes this partly to one-time IEEPA tariff refunds of $34 million, and it notes 'lower product margin rates.' Domestic adjusted SG&A rate rose to 19.6% from 19.3% on higher incentive compensation, Marketplace/Ads spending, advertising and card fees. Reported operating income rate was also helped by a reduction to restructuring charges. International weakened as well: revenue fell 4.2%, comps fell 1.8%, and adjusted operating income dropped to 13 from 18. Absent the refund, the underlying merchandise margin trend is negative. Meanwhile, the 10-K flags ongoing tariff volatility and limited ability to pass through cost increases.",
+    "evidence_ids": [
+     "E9",
+     "E8",
+     "E3",
+     "E5",
+     "E4",
+     "E6"
+    ],
+    "passed": true,
+    "problems": []
+   },
+   {
+    "id": "BEAR3",
+    "side": "bear",
+    "text": "Insider selling sends a cautionary signal. Over the last 90 days, Form 4 data show 4 open-market sales by 2 insiders totaling 416,062 shares, about $38,449,577, with zero purchases. None of the 4 sales were under a Rule 10b5-1 plan, which suggests discretionary timing. The largest was by founder SCHULZE RICHARD M: 247,340 shares on 2026-09-16 at $92.43, shortly after the strong Q2 10-Q filed 2026-09-04. Insiders selling into post-earnings strength, with no offsetting buying, weakens the case for near-term outperformance as macro risk rises.",
+    "evidence_ids": [
+     "E1",
+     "E8"
+    ],
+    "passed": true,
+    "problems": []
+   },
+   {
+    "id": "BULL1",
+    "side": "bull",
+    "text": "Domestic demand is accelerating into the holiday quarter. Per the 10-Q filed 2026-09-04, Domestic comparable sales rose 4.5% in Q2 FY27, versus 1.1% a year earlier. Revenue reached $9,070M versus $8,698M. Growth was broad: Computing and Mobile Phones comps were up 6.8%, Consumer Electronics up 5.6% (vs (5.2) last year) and Services up 6.4%. Drivers were computing, home theater, AI glasses and trading cards. Comparable online sales grew 5.1%. If that upgrade-cycle momentum carries into the holiday-heavy reporting window over the next 90 days, it could support upside surprises relative to the broader market.",
+    "evidence_ids": [
+     "E8",
+     "E9",
+     "E5"
+    ],
+    "passed": true,
+    "problems": []
+   },
+   {
+    "id": "BULL2",
+    "side": "bull",
+    "text": "Margin mix is shifting toward higher-margin revenue streams. Domestic gross profit rate rose to 24.0% from 23.4%. The 10-Q attributes this to growth in Best Buy Marketplace and Best Buy Ads, plus $34 million of IEEPA tariff refunds. Domestic adjusted operating income rose to $404M from $351M, and the rate expanded to 4.5% from 4.0%. Lower restructuring charges and lower supply chain costs added to operating income rate gains. Continued earnings leverage from these initiatives is a potential catalyst for the next earnings print.",
+    "evidence_ids": [
+     "E9",
+     "E8",
+     "E5",
+     "E3"
+    ],
+    "passed": true,
+    "problems": []
+   },
+   {
+    "id": "BULL3",
+    "side": "bull",
+    "text": "Store-footprint rationalization is largely behind the company and is now supporting profitability. Total stores fell to 1,068 from 1,105 year over year, mainly non-traditional formats: Yardbird went from 21 to 2, and Canada Best Buy Mobile from 28 to 12. Meanwhile, the core Best Buy store count held at 886, with two more Domestic stores expected by year-end FY27. The 10-Q also recorded a reduction to restructuring charges. A cleaner cost base heading into peak season could help BBY keep growing earnings even with elevated macro uncertainty. That uncertainty includes a VIX of 24.56 and a 10-year yield of 5.07% per FRED, and open-market insider sales with no purchases over the period. These are the key risks to this thesis.",
+    "evidence_ids": [
+     "E5",
+     "E10",
+     "E2",
+     "E1"
+    ],
+    "passed": false,
+    "problems": [
+     "numbers not in cited text: [27.0]"
+    ]
+   }
+  ],
+  "scored": [
+   {
+    "id": "BEAR1",
+    "side": "bear",
+    "text": "Macro conditions have turned against discretionary consumer-electronics spending heading into the holiday quarter. The 10-year yield rose from 4.65% to 5.07% and the 2-year from 4.19% to 4.80% over about three months. The high-yield spread widened from 2.73% to 3.47%, VIX jumped from 14.89 to 24.56, and CPI ran 3.7% year over year. BBY's own 10-K says its products are sensitive to interest rates, inflation, consumer financing availability and confidence, and that the impact 'could be compounded with respect to discretionary purchases of consumer electronics.' That leaves a high-beta discretionary retailer exposed to a demand and multiple squeeze within 90 days.",
+    "evidence_ids": [
+     "E2",
+     "E7",
+     "E4",
+     "E13",
+     "E14",
+     "E15",
+     "E16",
+     "E17"
+    ],
+    "passed": true,
+    "problems": [],
+    "send_backs": [
+     {
+      "thesis": "BEAR1",
+      "query": "Best Buy Q3 fiscal 2027 comparable sales guidance holiday outlook",
+      "added": [
+       "E13",
+       "E14",
+       "E15",
+       "E16"
+      ]
+     },
+     {
+      "thesis": "BEAR1",
+      "query": "Best Buy Q3 FY27 results November 2026 comparable sales holiday outlook consumer demand",
+      "added": [
+       "E17"
+      ]
+     }
+    ],
+    "score": 6.2,
+    "parts": {
+     "evidence_support": 5.5,
+     "relevance_90d": 7.0,
+     "materiality": 5.5,
+     "consistency": 5.0,
+     "novelty": 10.0
+    },
+    "ratings": {
+     "thesis_id": "BEAR1",
+     "evidence_support": 5.5,
+     "relevance_90d": 7.0,
+     "materiality": 5.5,
+     "reason": "The macro figures are quoted accurately from the FRED snapshot: 10Y 4.65 to 5.07, 2Y 4.19 to 4.80, HY spread 2.73 to 3.47, VIX 14.89 to 24.56, CPI 3.7%. The 10-K risk-factor language, including the 'compounded with respect to discretionary purchases' line, is also accurate. However, the risk factor is generic boilerplate, not evidence of actual demand weakness. The same cited filings cut against the thesis. Q2 FY27 comps were +4.1%, management raised full-year guidance to $6.70-$6.90 EPS and described a 'healthy demand environment for our category.' Q3 guidance was 1-3% comps. Unemployment at 4.1% is not recessionary. The 'high-beta' label and the 'multiple squeeze' are unsupported, since no valuation or beta data is cited. The tightening is real and the holiday quarter falls within 90 days, but the transmission to BBY demand is asserted, not shown. A CEO transition on November 1 adds some uncertainty but is not cited as a bear driver.",
+     "missing_evidence_query": "Best Buy Q3 FY27 results comparable sales holiday outlook November 2026"
+    },
+    "critic_reason": "The macro figures are quoted accurately from the FRED snapshot: 10Y 4.65 to 5.07, 2Y 4.19 to 4.80, HY spread 2.73 to 3.47, VIX 14.89 to 24.56, CPI 3.7%. The 10-K risk-factor language, including the 'compounded with respect to discretionary purchases' line, is also accurate. However, the risk factor is generic boilerplate, not evidence of actual demand weakness. The same cited filings cut against the thesis. Q2 FY27 comps were +4.1%, management raised full-year guidance to $6.70-$6.90 EPS and described a 'healthy demand environment for our category.' Q3 guidance was 1-3% comps. Unemployment at 4.1% is not recessionary. The 'high-beta' label and the 'multiple squeeze' are unsupported, since no valuation or beta data is cited. The tightening is real and the holiday quarter falls within 90 days, but the transmission to BBY demand is asserted, not shown. A CEO transition on November 1 adds some uncertainty but is not cited as a bear driver.",
+    "missing_query": "Best Buy Q3 FY27 results comparable sales holiday outlook November 2026",
+    "score_before_send_back": 6.5
+   },
+   {
+    "id": "BEAR2",
+    "side": "bear",
+    "text": "The Q2 FY27 margin improvement looks lower-quality than the headline implies. Domestic gross profit rate rose to 24.0% from 23.4%, but the 10-Q attributes this partly to one-time IEEPA tariff refunds of $34 million, and it notes 'lower product margin rates.' Domestic adjusted SG&A rate rose to 19.6% from 19.3% on higher incentive compensation, Marketplace/Ads spending, advertising and card fees. Reported operating income rate was also helped by a reduction to restructuring charges. International weakened as well: revenue fell 4.2%, comps fell 1.8%, and adjusted operating income dropped to 13 from 18. Absent the refund, the underlying merchandise margin trend is negative. Meanwhile, the 10-K flags ongoing tariff volatility and limited ability to pass through cost increases.",
+    "evidence_ids": [
+     "E9",
+     "E8",
+     "E3",
+     "E5",
+     "E4",
+     "E6"
+    ],
+    "passed": true,
+    "problems": [],
+    "score": 6.9,
+    "parts": {
+     "evidence_support": 8.0,
+     "relevance_90d": 6.0,
+     "materiality": 5.0,
+     "consistency": 5.0,
+     "novelty": 10.0
+    },
+    "ratings": {
+     "thesis_id": "BEAR2",
+     "evidence_support": 8.0,
+     "relevance_90d": 6.0,
+     "materiality": 5.0,
+     "reason": "The filing supports each element cited:\n- the $34M IEEPA refund;\n- 'lower product margin rates';\n- the Q2 SG&A rate rising to 19.6%;\n- the restructuring reduction helping the reported operating income rate;\n- International revenue -4.2%, comps -1.8% and AOI 13 vs 18.\nThe refund is about 37bp of the 60bp gross profit rate gain, so the core rate still improved roughly 20bp from Marketplace/Ads. 'Card fees' comes from the six-month commentary, not Q2. International is small relative to Domestic.",
+     "missing_evidence_query": ""
+    },
+    "critic_reason": "The filing supports each element cited:\n- the $34M IEEPA refund;\n- 'lower product margin rates';\n- the Q2 SG&A rate rising to 19.6%;\n- the restructuring reduction helping the reported operating income rate;\n- International revenue -4.2%, comps -1.8% and AOI 13 vs 18.\nThe refund is about 37bp of the 60bp gross profit rate gain, so the core rate still improved roughly 20bp from Marketplace/Ads. 'Card fees' comes from the six-month commentary, not Q2. International is small relative to Domestic.",
+    "missing_query": ""
+   },
+   {
+    "id": "BEAR3",
+    "side": "bear",
+    "text": "Insider selling sends a cautionary signal. Over the last 90 days, Form 4 data show 4 open-market sales by 2 insiders totaling 416,062 shares, about $38,449,577, with zero purchases. None of the 4 sales were under a Rule 10b5-1 plan, which suggests discretionary timing. The largest was by founder SCHULZE RICHARD M: 247,340 shares on 2026-09-16 at $92.43, shortly after the strong Q2 10-Q filed 2026-09-04. Insiders selling into post-earnings strength, with no offsetting buying, weakens the case for near-term outperformance as macro risk rises.",
+    "evidence_ids": [
+     "E1",
+     "E8"
+    ],
+    "passed": true,
+    "problems": [],
+    "score": 5.7,
+    "parts": {
+     "evidence_support": 7.0,
+     "relevance_90d": 4.0,
+     "materiality": 3.0,
+     "consistency": 5.0,
+     "novelty": 10.0
+    },
+    "ratings": {
+     "thesis_id": "BEAR3",
+     "evidence_support": 7.0,
+     "relevance_90d": 4.0,
+     "materiality": 3.0,
+     "reason": "The Form 4 summary supports the counts, dollar value, lack of purchases, non-10b5-1 status and the Schulze sale details. The inference is weak: only 2 insiders sold, and founder sales are commonly diversification. No holdings context or history is cited to show the selling is unusual. Its predictive value for 90-day performance is limited.",
+     "missing_evidence_query": "Richard Schulze Best Buy share holdings historical Form 4 sales pattern"
+    },
+    "critic_reason": "The Form 4 summary supports the counts, dollar value, lack of purchases, non-10b5-1 status and the Schulze sale details. The inference is weak: only 2 insiders sold, and founder sales are commonly diversification. No holdings context or history is cited to show the selling is unusual. Its predictive value for 90-day performance is limited.",
+    "missing_query": "Richard Schulze Best Buy share holdings historical Form 4 sales pattern"
+   },
+   {
+    "id": "BULL1",
+    "side": "bull",
+    "text": "Domestic demand is accelerating into the holiday quarter. Per the 10-Q filed 2026-09-04, Domestic comparable sales rose 4.5% in Q2 FY27, versus 1.1% a year earlier. Revenue reached $9,070M versus $8,698M. Growth was broad: Computing and Mobile Phones comps were up 6.8%, Consumer Electronics up 5.6% (vs (5.2) last year) and Services up 6.4%. Drivers were computing, home theater, AI glasses and trading cards. Comparable online sales grew 5.1%. If that upgrade-cycle momentum carries into the holiday-heavy reporting window over the next 90 days, it could support upside surprises relative to the broader market.",
+    "evidence_ids": [
+     "E8",
+     "E9",
+     "E5"
+    ],
+    "passed": true,
+    "problems": [],
+    "score": 7.2,
+    "parts": {
+     "evidence_support": 7.0,
+     "relevance_90d": 6.0,
+     "materiality": 6.0,
+     "consistency": 10.0,
+     "novelty": 10.0
+    },
+    "ratings": {
+     "thesis_id": "BULL1",
+     "evidence_support": 7.0,
+     "relevance_90d": 6.0,
+     "materiality": 6.0,
+     "reason": "The Q2 domestic comp, revenue, category comps, drivers and online comp are all accurately cited. However, 'accelerating into the holiday quarter' is extrapolated from one past quarter. Online comps were flat at 5.1% vs 5.1%, and Entertainment/gaming declined. No Q3 guidance or holiday data is cited, so carry-through is speculative.",
+     "missing_evidence_query": "Best Buy fiscal 2027 full-year comparable sales guidance raised Q3"
+    },
+    "critic_reason": "The Q2 domestic comp, revenue, category comps, drivers and online comp are all accurately cited. However, 'accelerating into the holiday quarter' is extrapolated from one past quarter. Online comps were flat at 5.1% vs 5.1%, and Entertainment/gaming declined. No Q3 guidance or holiday data is cited, so carry-through is speculative.",
+    "missing_query": "Best Buy fiscal 2027 full-year comparable sales guidance raised Q3"
+   },
+   {
+    "id": "BULL2",
+    "side": "bull",
+    "text": "Margin mix is shifting toward higher-margin revenue streams. Domestic gross profit rate rose to 24.0% from 23.4%. The 10-Q attributes this to growth in Best Buy Marketplace and Best Buy Ads, plus $34 million of IEEPA tariff refunds. Domestic adjusted operating income rose to $404M from $351M, and the rate expanded to 4.5% from 4.0%. Lower restructuring charges and lower supply chain costs added to operating income rate gains. Continued earnings leverage from these initiatives is a potential catalyst for the next earnings print.",
+    "evidence_ids": [
+     "E9",
+     "E8",
+     "E5",
+     "E3"
+    ],
+    "passed": true,
+    "problems": [],
+    "score": 6.6,
+    "parts": {
+     "evidence_support": 6.0,
+     "relevance_90d": 6.0,
+     "materiality": 5.0,
+     "consistency": 10.0,
+     "novelty": 10.0
+    },
+    "ratings": {
+     "thesis_id": "BULL2",
+     "evidence_support": 6.0,
+     "relevance_90d": 6.0,
+     "materiality": 5.0,
+     "reason": "The cited GP rate, AOI figures and Marketplace/Ads attribution are accurate. However, the thesis glosses over the one-time nature of the $34M refund and the restructuring reduction, which undercuts the 'continued leverage' claim. It also omits the filing's 'lower product margin rates' and the rising SG&A rate. Lower supply chain costs are cited for the six-month period, not Q2. The mix shift is only partially supported as a durable catalyst.",
+     "missing_evidence_query": "Best Buy Marketplace Ads revenue growth gross margin contribution outlook"
+    },
+    "critic_reason": "The cited GP rate, AOI figures and Marketplace/Ads attribution are accurate. However, the thesis glosses over the one-time nature of the $34M refund and the restructuring reduction, which undercuts the 'continued leverage' claim. It also omits the filing's 'lower product margin rates' and the rising SG&A rate. Lower supply chain costs are cited for the six-month period, not Q2. The mix shift is only partially supported as a durable catalyst.",
+    "missing_query": "Best Buy Marketplace Ads revenue growth gross margin contribution outlook"
+   }
+  ],
+  "rescore_ids": null,
+  "send_back_log": [
+   {
+    "thesis": "BEAR1",
+    "query": "Best Buy Q3 fiscal 2027 comparable sales guidance holiday outlook",
+    "added": [
+     "E13",
+     "E14",
+     "E15",
+     "E16"
+    ]
+   },
+   {
+    "thesis": "BEAR1",
+    "query": "Best Buy Q3 FY27 results November 2026 comparable sales holiday outlook consumer demand",
+    "added": [
+     "E17"
+    ]
+   }
+  ],
+  "survivors": [
+   {
+    "id": "BULL1",
+    "side": "bull",
+    "text": "Domestic demand is accelerating into the holiday quarter. Per the 10-Q filed 2026-09-04, Domestic comparable sales rose 4.5% in Q2 FY27, versus 1.1% a year earlier. Revenue reached $9,070M versus $8,698M. Growth was broad: Computing and Mobile Phones comps were up 6.8%, Consumer Electronics up 5.6% (vs (5.2) last year) and Services up 6.4%. Drivers were computing, home theater, AI glasses and trading cards. Comparable online sales grew 5.1%. If that upgrade-cycle momentum carries into the holiday-heavy reporting window over the next 90 days, it could support upside surprises relative to the broader market.",
+    "evidence_ids": [
+     "E8",
+     "E9",
+     "E5"
+    ],
+    "passed": true,
+    "problems": [],
+    "score": 7.0,
+    "parts": {
+     "evidence_support": 7.0,
+     "relevance_90d": 5.0,
+     "materiality": 6.0,
+     "consistency": 10.0,
+     "novelty": 10.0
+    },
+    "ratings": {
+     "thesis_id": "BULL1",
+     "evidence_support": 7.0,
+     "relevance_90d": 5.0,
+     "materiality": 6.0,
+     "reason": "Cited 10-Q fully supports the Q2 figures: 4.5% comps vs 1.1%, revenue $9,070M vs $8,698M, category comps and 5.1% online comps. However, 'accelerating into the holiday quarter' is extrapolation the cited text does not support. The rebuttal raises a real weakness: management's Q3 comp guide of 1.0-3.0% implies deceleration, and part of the growth came from novelty categories. Entertainment comps were -6.3%. The macro deterioration and insider selling cited in the rebuttal sit outside this evidence but are plausible headwinds.",
+     "missing_evidence_query": "Best Buy Q3 FY27 comparable sales guidance holiday outlook"
+    },
+    "critic_reason": "Cited 10-Q fully supports the Q2 figures: 4.5% comps vs 1.1%, revenue $9,070M vs $8,698M, category comps and 5.1% online comps. However, 'accelerating into the holiday quarter' is extrapolation the cited text does not support. The rebuttal raises a real weakness: management's Q3 comp guide of 1.0-3.0% implies deceleration, and part of the growth came from novelty categories. Entertainment comps were -6.3%. The macro deterioration and insider selling cited in the rebuttal sit outside this evidence but are plausible headwinds.",
+    "missing_query": "Best Buy Q3 FY27 comparable sales guidance holiday outlook",
+    "first_score": 7.2,
+    "rebuttal": {
+     "thesis_id": "BULL1",
+     "counter_argument": "Q2 was a peak, not a launchpad. Management's own Q3 guide calls for only 1.0%\u20133.0% comps, a deceleration from 4.5% Domestic. Even the raised full-year comp guide of 1.9%\u20133.0% implies a slower second half after a strong first half. Q2 strength leaned on novelty categories like AI glasses and trading cards. Traditional gaming kept declining, with Entertainment comps at -6.3%, and the year-ago gaming launch comparison already showed how lumpy these drivers are. International went negative, with comps at -1.8% and revenue down 4.2%. The macro backdrop has deteriorated sharply since the quarter closed. The 10-year yield rose to 5.07% from 4.65% and the 2-year to 4.80% from 4.19%. HY spreads widened to 3.47% from 2.73%, the VIX jumped to 24.56 from 14.89, and CPI is running 3.7%. Best Buy's own risk factors say consumer electronics, as discretionary purchases, are especially sensitive to interest rates, inflation, financing availability and confidence. That can delay upgrades and push buyers to lower price points. Insiders show no confidence in the extrapolation either: zero open-market buys, and about $38.4M of discretionary sales (none under 10b5-1 plans), including Schulze's 247,340 shares at $92.43 shortly after the raise.",
+     "evidence_ids": [
+      "E14",
+      "E9",
+      "E8",
+      "E3",
+      "E15",
+      "E13",
+      "E2",
+      "E7",
+      "E4",
+      "E1"
+     ],
+     "by": "bear"
+    },
+    "protected": false
+   },
+   {
+    "id": "BEAR2",
+    "side": "bear",
+    "text": "The Q2 FY27 margin improvement looks lower-quality than the headline implies. Domestic gross profit rate rose to 24.0% from 23.4%, but the 10-Q attributes this partly to one-time IEEPA tariff refunds of $34 million, and it notes 'lower product margin rates.' Domestic adjusted SG&A rate rose to 19.6% from 19.3% on higher incentive compensation, Marketplace/Ads spending, advertising and card fees. Reported operating income rate was also helped by a reduction to restructuring charges. International weakened as well: revenue fell 4.2%, comps fell 1.8%, and adjusted operating income dropped to 13 from 18. Absent the refund, the underlying merchandise margin trend is negative. Meanwhile, the 10-K flags ongoing tariff volatility and limited ability to pass through cost increases.",
+    "evidence_ids": [
+     "E9",
+     "E8",
+     "E3",
+     "E5",
+     "E4",
+     "E6"
+    ],
+    "passed": true,
+    "problems": [],
+    "score": 6.1,
+    "parts": {
+     "evidence_support": 7.0,
+     "relevance_90d": 5.0,
+     "materiality": 4.0,
+     "consistency": 5.0,
+     "novelty": 10.0
+    },
+    "ratings": {
+     "thesis_id": "BEAR2",
+     "evidence_support": 7.0,
+     "relevance_90d": 5.0,
+     "materiality": 4.0,
+     "reason": "Cited text confirms the $34M IEEPA refund, lower product margin rates, a higher SG&A rate, the restructuring reduction, International weakness and the 10-K tariff risk language. However, the claim that 'absent the refund, the underlying merchandise margin trend is negative' overreaches. The refund is about 0.37 pts against a 0.6 pt gross margin gain, so ex-refund gross margin of roughly 23.6% is still above 23.4%. Marketplace/Ads mix is a stated driver. The rebuttal exposes this real weakness, and International is small relative to the enterprise.",
+     "missing_evidence_query": ""
+    },
+    "critic_reason": "Cited text confirms the $34M IEEPA refund, lower product margin rates, a higher SG&A rate, the restructuring reduction, International weakness and the 10-K tariff risk language. However, the claim that 'absent the refund, the underlying merchandise margin trend is negative' overreaches. The refund is about 0.37 pts against a 0.6 pt gross margin gain, so ex-refund gross margin of roughly 23.6% is still above 23.4%. Marketplace/Ads mix is a stated driver. The rebuttal exposes this real weakness, and International is small relative to the enterprise.",
+    "missing_query": "",
+    "first_score": 6.9,
+    "rebuttal": {
+     "thesis_id": "BEAR2",
+     "counter_argument": "Strip out the refund and the margin story still holds. The $34M IEEPA refund is about 0.37 pts of Domestic Q2 revenue ($34M / $9,070M). Without it, Domestic gross margin would be roughly 23.6% versus 23.4% a year ago, still up. Domestic adjusted operating income would be about $370M versus $351M, up roughly 5%, and the rate would be about 4.1% versus 4.0% (E8, E9). The expansion is not a one-off. Q1 Domestic gross margin rose to 23.7% from 23.5% with no refund, driven by Marketplace, Best Buy Ads and services. That is the same structural mix shift that 'more than offset lower product margin rates' in both quarters (E13, E9). For the first six months, the 10-Q also credits lower supply chain costs and better traditional services results (E9). The restructuring point does not apply to the core metric: enterprise adjusted operating income rate, which excludes restructuring, still rose to 4.3% from 3.9%. Adjusted diluted EPS rose 15% (E15). The SG&A increase is largely investment and success-linked. Incentive compensation rises with outperformance, and Marketplace/Ads spending funds the higher-margin revenue streams driving gross margin. The SG&A rate rose only 0.3 pts while the gross margin rate rose 0.6 pts (E3, E8, E9). Organic demand was broad: Domestic comps grew 4.5% across computing, home theater, services, appliances and emerging categories (E8, E9, E14). International is about 7% of enterprise revenue ($709M of $9,779M) and was still up on a six-month basis: revenue +1.2% and comps +1.3%. Its Q2 dip came mainly from lapping a +7.6% gaming-driven comp (E3, E15). Management saw the full picture, including the 10-K's tariff and pricing risks (E6). It still raised FY27 guidance: EPS to $6.70\u2013$6.90 from $6.30\u2013$6.60, adjusted operating income rate to 4.4\u20134.5%, and comps to 1.9\u20133.0%. It also guided Q3 adjusted operating income rate to 4.1\u20134.2% without counting on a refund (E14). This momentum continued from Q1, which also beat expectations (E16).",
+     "evidence_ids": [
+      "E8",
+      "E9",
+      "E13",
+      "E15",
+      "E3",
+      "E14",
+      "E16",
+      "E6"
+     ],
+     "by": "bull"
+    },
+    "protected": false
+   },
+   {
+    "id": "BULL2",
+    "side": "bull",
+    "text": "Margin mix is shifting toward higher-margin revenue streams. Domestic gross profit rate rose to 24.0% from 23.4%. The 10-Q attributes this to growth in Best Buy Marketplace and Best Buy Ads, plus $34 million of IEEPA tariff refunds. Domestic adjusted operating income rose to $404M from $351M, and the rate expanded to 4.5% from 4.0%. Lower restructuring charges and lower supply chain costs added to operating income rate gains. Continued earnings leverage from these initiatives is a potential catalyst for the next earnings print.",
+    "evidence_ids": [
+     "E9",
+     "E8",
+     "E5",
+     "E3"
+    ],
+    "passed": true,
+    "problems": [],
+    "score": 6.8,
+    "parts": {
+     "evidence_support": 7.0,
+     "relevance_90d": 5.0,
+     "materiality": 5.0,
+     "consistency": 10.0,
+     "novelty": 10.0
+    },
+    "ratings": {
+     "thesis_id": "BULL2",
+     "evidence_support": 7.0,
+     "relevance_90d": 5.0,
+     "materiality": 5.0,
+     "reason": "Cited text supports the gross margin rise to 24.0% attributed to Marketplace/Ads plus the refund, and adjusted operating income of $404M vs $351M. Two attributions are imprecise. Lower supply chain costs are cited only for the six-month period, and the restructuring benefit applies to the enterprise reported rate, not segment adjusted operating income. Per the rebuttal, about a fifth of the gross profit gain is a non-recurring refund, product margins are declining and the SG&A rate rose. Q3 operating rate guidance of 4.1-4.2% tempers the next-print catalyst.",
+     "missing_evidence_query": "Best Buy Q3 FY27 adjusted operating income rate guidance Marketplace Ads margin contribution"
+    },
+    "critic_reason": "Cited text supports the gross margin rise to 24.0% attributed to Marketplace/Ads plus the refund, and adjusted operating income of $404M vs $351M. Two attributions are imprecise. Lower supply chain costs are cited only for the six-month period, and the restructuring benefit applies to the enterprise reported rate, not segment adjusted operating income. Per the rebuttal, about a fifth of the gross profit gain is a non-recurring refund, product margins are declining and the SG&A rate rose. Q3 operating rate guidance of 4.1-4.2% tempers the next-print catalyst.",
+    "missing_query": "Best Buy Q3 FY27 adjusted operating income rate guidance Marketplace Ads margin contribution",
+    "first_score": 6.6,
+    "rebuttal": {
+     "thesis_id": "BULL2",
+     "counter_argument": "The margin gain is lower quality than it looks. Q2 Domestic gross profit rose $147M, but $34M of that, roughly a fifth, came from one-time IEEPA tariff refunds that won't recur. Underlying product margin rates fell, as they also did in Q1, so the core retail business is losing margin. Domestic adjusted SG&A grew 5.6%, faster than revenue's 4.3%. The SG&A rate rose to 19.6% from 19.3%, driven by incentive compensation, the costs of the Marketplace and Ads initiatives themselves, advertising and card fees. The enterprise operating income rate jump was flattered by lower restructuring charges, including a reduction from reversed termination benefits. Adjusted operating income rate was 4.3% versus 3.9%, and management guides Q3 down to 4.1%\u20134.2%. International margins are compressing: operating income fell to $13M from $18M and the rate to 1.8% from 2.4%. The 10-K warns that Best Buy may not be able to pass on tariff, inflation and shipping cost increases and may have to absorb them, with sourcing heavily exposed to China, Mexico, Taiwan and Hormuz-disrupted routes. Strip out the one-off refund and the margin story stalls.",
+     "evidence_ids": [
+      "E9",
+      "E8",
+      "E3",
+      "E13",
+      "E5",
+      "E15",
+      "E14",
+      "E4",
+      "E6",
+      "E12"
+     ],
+     "by": "bear"
+    },
+    "protected": false
+   }
+  ],
+  "pruned": [
+   {
+    "id": "BEAR1",
+    "side": "bear",
+    "text": "Macro conditions have turned against discretionary consumer-electronics spending heading into the holiday quarter. The 10-year yield rose from 4.65% to 5.07% and the 2-year from 4.19% to 4.80% over about three months. The high-yield spread widened from 2.73% to 3.47%, VIX jumped from 14.89 to 24.56, and CPI ran 3.7% year over year. BBY's own 10-K says its products are sensitive to interest rates, inflation, consumer financing availability and confidence, and that the impact 'could be compounded with respect to discretionary purchases of consumer electronics.' That leaves a high-beta discretionary retailer exposed to a demand and multiple squeeze within 90 days.",
+    "evidence_ids": [
+     "E2",
+     "E7",
+     "E4",
+     "E13",
+     "E14",
+     "E15",
+     "E16",
+     "E17"
+    ],
+    "passed": true,
+    "problems": [],
+    "send_backs": [
+     {
+      "thesis": "BEAR1",
+      "query": "Best Buy Q3 fiscal 2027 comparable sales guidance holiday outlook",
+      "added": [
+       "E13",
+       "E14",
+       "E15",
+       "E16"
+      ]
+     },
+     {
+      "thesis": "BEAR1",
+      "query": "Best Buy Q3 FY27 results November 2026 comparable sales holiday outlook consumer demand",
+      "added": [
+       "E17"
+      ]
+     }
+    ],
+    "score": 6.2,
+    "parts": {
+     "evidence_support": 5.5,
+     "relevance_90d": 7.0,
+     "materiality": 5.5,
+     "consistency": 5.0,
+     "novelty": 10.0
+    },
+    "ratings": {
+     "thesis_id": "BEAR1",
+     "evidence_support": 5.5,
+     "relevance_90d": 7.0,
+     "materiality": 5.5,
+     "reason": "The macro figures are quoted accurately from the FRED snapshot: 10Y 4.65 to 5.07, 2Y 4.19 to 4.80, HY spread 2.73 to 3.47, VIX 14.89 to 24.56, CPI 3.7%. The 10-K risk-factor language, including the 'compounded with respect to discretionary purchases' line, is also accurate. However, the risk factor is generic boilerplate, not evidence of actual demand weakness. The same cited filings cut against the thesis. Q2 FY27 comps were +4.1%, management raised full-year guidance to $6.70-$6.90 EPS and described a 'healthy demand environment for our category.' Q3 guidance was 1-3% comps. Unemployment at 4.1% is not recessionary. The 'high-beta' label and the 'multiple squeeze' are unsupported, since no valuation or beta data is cited. The tightening is real and the holiday quarter falls within 90 days, but the transmission to BBY demand is asserted, not shown. A CEO transition on November 1 adds some uncertainty but is not cited as a bear driver.",
+     "missing_evidence_query": "Best Buy Q3 FY27 results comparable sales holiday outlook November 2026"
+    },
+    "critic_reason": "The macro figures are quoted accurately from the FRED snapshot: 10Y 4.65 to 5.07, 2Y 4.19 to 4.80, HY spread 2.73 to 3.47, VIX 14.89 to 24.56, CPI 3.7%. The 10-K risk-factor language, including the 'compounded with respect to discretionary purchases' line, is also accurate. However, the risk factor is generic boilerplate, not evidence of actual demand weakness. The same cited filings cut against the thesis. Q2 FY27 comps were +4.1%, management raised full-year guidance to $6.70-$6.90 EPS and described a 'healthy demand environment for our category.' Q3 guidance was 1-3% comps. Unemployment at 4.1% is not recessionary. The 'high-beta' label and the 'multiple squeeze' are unsupported, since no valuation or beta data is cited. The tightening is real and the holiday quarter falls within 90 days, but the transmission to BBY demand is asserted, not shown. A CEO transition on November 1 adds some uncertainty but is not cited as a bear driver.",
+    "missing_query": "Best Buy Q3 FY27 results comparable sales holiday outlook November 2026",
+    "score_before_send_back": 6.5
+   },
+   {
+    "id": "BEAR3",
+    "side": "bear",
+    "text": "Insider selling sends a cautionary signal. Over the last 90 days, Form 4 data show 4 open-market sales by 2 insiders totaling 416,062 shares, about $38,449,577, with zero purchases. None of the 4 sales were under a Rule 10b5-1 plan, which suggests discretionary timing. The largest was by founder SCHULZE RICHARD M: 247,340 shares on 2026-09-16 at $92.43, shortly after the strong Q2 10-Q filed 2026-09-04. Insiders selling into post-earnings strength, with no offsetting buying, weakens the case for near-term outperformance as macro risk rises.",
+    "evidence_ids": [
+     "E1",
+     "E8"
+    ],
+    "passed": true,
+    "problems": [],
+    "score": 5.7,
+    "parts": {
+     "evidence_support": 7.0,
+     "relevance_90d": 4.0,
+     "materiality": 3.0,
+     "consistency": 5.0,
+     "novelty": 10.0
+    },
+    "ratings": {
+     "thesis_id": "BEAR3",
+     "evidence_support": 7.0,
+     "relevance_90d": 4.0,
+     "materiality": 3.0,
+     "reason": "The Form 4 summary supports the counts, dollar value, lack of purchases, non-10b5-1 status and the Schulze sale details. The inference is weak: only 2 insiders sold, and founder sales are commonly diversification. No holdings context or history is cited to show the selling is unusual. Its predictive value for 90-day performance is limited.",
+     "missing_evidence_query": "Richard Schulze Best Buy share holdings historical Form 4 sales pattern"
+    },
+    "critic_reason": "The Form 4 summary supports the counts, dollar value, lack of purchases, non-10b5-1 status and the Schulze sale details. The inference is weak: only 2 insiders sold, and founder sales are commonly diversification. No holdings context or history is cited to show the selling is unusual. Its predictive value for 90-day performance is limited.",
+    "missing_query": "Richard Schulze Best Buy share holdings historical Form 4 sales pattern"
+   }
+  ],
+  "best": {
+   "bull": {
+    "id": "BULL1",
+    "side": "bull",
+    "text": "Domestic demand is accelerating into the holiday quarter. Per the 10-Q filed 2026-09-04, Domestic comparable sales rose 4.5% in Q2 FY27, versus 1.1% a year earlier. Revenue reached $9,070M versus $8,698M. Growth was broad: Computing and Mobile Phones comps were up 6.8%, Consumer Electronics up 5.6% (vs (5.2) last year) and Services up 6.4%. Drivers were computing, home theater, AI glasses and trading cards. Comparable online sales grew 5.1%. If that upgrade-cycle momentum carries into the holiday-heavy reporting window over the next 90 days, it could support upside surprises relative to the broader market.",
+    "evidence_ids": [
+     "E8",
+     "E9",
+     "E5"
+    ],
+    "passed": true,
+    "problems": [],
+    "score": 7.0,
+    "parts": {
+     "evidence_support": 7.0,
+     "relevance_90d": 5.0,
+     "materiality": 6.0,
+     "consistency": 10.0,
+     "novelty": 10.0
+    },
+    "ratings": {
+     "thesis_id": "BULL1",
+     "evidence_support": 7.0,
+     "relevance_90d": 5.0,
+     "materiality": 6.0,
+     "reason": "Cited 10-Q fully supports the Q2 figures: 4.5% comps vs 1.1%, revenue $9,070M vs $8,698M, category comps and 5.1% online comps. However, 'accelerating into the holiday quarter' is extrapolation the cited text does not support. The rebuttal raises a real weakness: management's Q3 comp guide of 1.0-3.0% implies deceleration, and part of the growth came from novelty categories. Entertainment comps were -6.3%. The macro deterioration and insider selling cited in the rebuttal sit outside this evidence but are plausible headwinds.",
+     "missing_evidence_query": "Best Buy Q3 FY27 comparable sales guidance holiday outlook"
+    },
+    "critic_reason": "Cited 10-Q fully supports the Q2 figures: 4.5% comps vs 1.1%, revenue $9,070M vs $8,698M, category comps and 5.1% online comps. However, 'accelerating into the holiday quarter' is extrapolation the cited text does not support. The rebuttal raises a real weakness: management's Q3 comp guide of 1.0-3.0% implies deceleration, and part of the growth came from novelty categories. Entertainment comps were -6.3%. The macro deterioration and insider selling cited in the rebuttal sit outside this evidence but are plausible headwinds.",
+    "missing_query": "Best Buy Q3 FY27 comparable sales guidance holiday outlook",
+    "first_score": 7.2,
+    "rebuttal": {
+     "thesis_id": "BULL1",
+     "counter_argument": "Q2 was a peak, not a launchpad. Management's own Q3 guide calls for only 1.0%\u20133.0% comps, a deceleration from 4.5% Domestic. Even the raised full-year comp guide of 1.9%\u20133.0% implies a slower second half after a strong first half. Q2 strength leaned on novelty categories like AI glasses and trading cards. Traditional gaming kept declining, with Entertainment comps at -6.3%, and the year-ago gaming launch comparison already showed how lumpy these drivers are. International went negative, with comps at -1.8% and revenue down 4.2%. The macro backdrop has deteriorated sharply since the quarter closed. The 10-year yield rose to 5.07% from 4.65% and the 2-year to 4.80% from 4.19%. HY spreads widened to 3.47% from 2.73%, the VIX jumped to 24.56 from 14.89, and CPI is running 3.7%. Best Buy's own risk factors say consumer electronics, as discretionary purchases, are especially sensitive to interest rates, inflation, financing availability and confidence. That can delay upgrades and push buyers to lower price points. Insiders show no confidence in the extrapolation either: zero open-market buys, and about $38.4M of discretionary sales (none under 10b5-1 plans), including Schulze's 247,340 shares at $92.43 shortly after the raise.",
+     "evidence_ids": [
+      "E14",
+      "E9",
+      "E8",
+      "E3",
+      "E15",
+      "E13",
+      "E2",
+      "E7",
+      "E4",
+      "E1"
+     ],
+     "by": "bear"
+    },
+    "protected": false
+   },
+   "bear": {
+    "id": "BEAR2",
+    "side": "bear",
+    "text": "The Q2 FY27 margin improvement looks lower-quality than the headline implies. Domestic gross profit rate rose to 24.0% from 23.4%, but the 10-Q attributes this partly to one-time IEEPA tariff refunds of $34 million, and it notes 'lower product margin rates.' Domestic adjusted SG&A rate rose to 19.6% from 19.3% on higher incentive compensation, Marketplace/Ads spending, advertising and card fees. Reported operating income rate was also helped by a reduction to restructuring charges. International weakened as well: revenue fell 4.2%, comps fell 1.8%, and adjusted operating income dropped to 13 from 18. Absent the refund, the underlying merchandise margin trend is negative. Meanwhile, the 10-K flags ongoing tariff volatility and limited ability to pass through cost increases.",
+    "evidence_ids": [
+     "E9",
+     "E8",
+     "E3",
+     "E5",
+     "E4",
+     "E6"
+    ],
+    "passed": true,
+    "problems": [],
+    "score": 6.1,
+    "parts": {
+     "evidence_support": 7.0,
+     "relevance_90d": 5.0,
+     "materiality": 4.0,
+     "consistency": 5.0,
+     "novelty": 10.0
+    },
+    "ratings": {
+     "thesis_id": "BEAR2",
+     "evidence_support": 7.0,
+     "relevance_90d": 5.0,
+     "materiality": 4.0,
+     "reason": "Cited text confirms the $34M IEEPA refund, lower product margin rates, a higher SG&A rate, the restructuring reduction, International weakness and the 10-K tariff risk language. However, the claim that 'absent the refund, the underlying merchandise margin trend is negative' overreaches. The refund is about 0.37 pts against a 0.6 pt gross margin gain, so ex-refund gross margin of roughly 23.6% is still above 23.4%. Marketplace/Ads mix is a stated driver. The rebuttal exposes this real weakness, and International is small relative to the enterprise.",
+     "missing_evidence_query": ""
+    },
+    "critic_reason": "Cited text confirms the $34M IEEPA refund, lower product margin rates, a higher SG&A rate, the restructuring reduction, International weakness and the 10-K tariff risk language. However, the claim that 'absent the refund, the underlying merchandise margin trend is negative' overreaches. The refund is about 0.37 pts against a 0.6 pt gross margin gain, so ex-refund gross margin of roughly 23.6% is still above 23.4%. Marketplace/Ads mix is a stated driver. The rebuttal exposes this real weakness, and International is small relative to the enterprise.",
+    "missing_query": "",
+    "first_score": 6.9,
+    "rebuttal": {
+     "thesis_id": "BEAR2",
+     "counter_argument": "Strip out the refund and the margin story still holds. The $34M IEEPA refund is about 0.37 pts of Domestic Q2 revenue ($34M / $9,070M). Without it, Domestic gross margin would be roughly 23.6% versus 23.4% a year ago, still up. Domestic adjusted operating income would be about $370M versus $351M, up roughly 5%, and the rate would be about 4.1% versus 4.0% (E8, E9). The expansion is not a one-off. Q1 Domestic gross margin rose to 23.7% from 23.5% with no refund, driven by Marketplace, Best Buy Ads and services. That is the same structural mix shift that 'more than offset lower product margin rates' in both quarters (E13, E9). For the first six months, the 10-Q also credits lower supply chain costs and better traditional services results (E9). The restructuring point does not apply to the core metric: enterprise adjusted operating income rate, which excludes restructuring, still rose to 4.3% from 3.9%. Adjusted diluted EPS rose 15% (E15). The SG&A increase is largely investment and success-linked. Incentive compensation rises with outperformance, and Marketplace/Ads spending funds the higher-margin revenue streams driving gross margin. The SG&A rate rose only 0.3 pts while the gross margin rate rose 0.6 pts (E3, E8, E9). Organic demand was broad: Domestic comps grew 4.5% across computing, home theater, services, appliances and emerging categories (E8, E9, E14). International is about 7% of enterprise revenue ($709M of $9,779M) and was still up on a six-month basis: revenue +1.2% and comps +1.3%. Its Q2 dip came mainly from lapping a +7.6% gaming-driven comp (E3, E15). Management saw the full picture, including the 10-K's tariff and pricing risks (E6). It still raised FY27 guidance: EPS to $6.70\u2013$6.90 from $6.30\u2013$6.60, adjusted operating income rate to 4.4\u20134.5%, and comps to 1.9\u20133.0%. It also guided Q3 adjusted operating income rate to 4.1\u20134.2% without counting on a refund (E14). This momentum continued from Q1, which also beat expectations (E16).",
+     "evidence_ids": [
+      "E8",
+      "E9",
+      "E13",
+      "E15",
+      "E3",
+      "E14",
+      "E16",
+      "E6"
+     ],
+     "by": "bull"
+    },
+    "protected": false
+   }
+  },
+  "contested": false,
+  "leaning": "bull"
+ },
+ "send_back_rounds": 2,
+ "queries_tried": [
+  "Best Buy Q3 fiscal 2027 comparable sales guidance holiday outlook",
+  "Best Buy Q3 FY27 results November 2026 comparable sales holiday outlook consumer demand"
+ ],
+ "events": [
+  {
+   "ts": "22:56:34",
+   "node": "bear",
+   "theses": 3
+  },
+  {
+   "ts": "22:56:34",
+   "node": "bull",
+   "theses": 3
+  },
+  {
+   "ts": "22:56:34",
+   "node": "check",
+   "failed": 1
+  },
+  {
+   "ts": "22:56:52",
+   "node": "score",
+   "scored": 5,
+   "rescore": false
+  },
+  {
+   "ts": "22:57:00",
+   "node": "send_back",
+   "requests": [
+    {
+     "thesis": "BEAR1",
+     "query": "Best Buy Q3 fiscal 2027 comparable sales guidance holiday outlook",
+     "added": [
+      "E13",
+      "E14",
+      "E15",
+      "E16"
+     ]
+    }
+   ]
+  },
+  {
+   "ts": "22:57:05",
+   "node": "score",
+   "scored": 1,
+   "rescore": true
+  },
+  {
+   "ts": "22:57:12",
+   "node": "send_back",
+   "requests": [
+    {
+     "thesis": "BEAR1",
+     "query": "Best Buy Q3 FY27 results November 2026 comparable sales holiday outlook consumer demand",
+     "added": [
+      "E17"
+     ]
+    }
+   ]
+  },
+  {
+   "ts": "22:57:19",
+   "node": "score",
+   "scored": 1,
+   "rescore": true
+  },
+  {
+   "ts": "22:57:19",
+   "node": "prune",
+   "kept": [
+    "BULL1",
+    "BEAR2",
+    "BULL2"
+   ]
+  },
+  {
+   "ts": "22:57:42",
+   "node": "rebut",
+   "rebuttals": 3
+  },
+  {
+   "ts": "22:57:50",
+   "node": "rescore",
+   "rescored": 3
+  },
+  {
+   "ts": "22:57:50",
+   "node": "decide",
+   "contested": false,
+   "leaning": "bull"
+  }
+ ]
+}
