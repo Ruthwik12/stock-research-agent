@@ -42,10 +42,14 @@ export interface Report {
   trace_file: string
 }
 
+const OFFLINE = 'Cannot reach the backend. Start it (uvicorn on port 8000) and refresh the page.'
+
 async function request<T>(url: string, init?: RequestInit): Promise<T> {
-  const res = await fetch(url, init)
+  const res = await fetch(url, init).catch(() => { throw new Error(OFFLINE) })
   if (!res.ok) {
     const body = await res.json().catch(() => null)
+    // A 502/504 with no JSON detail comes from the dev proxy: the backend isn't running.
+    if (!body?.detail && (res.status === 502 || res.status === 504)) throw new Error(OFFLINE)
     throw new Error(body?.detail ?? `Request failed (${res.status})`)
   }
   return res.json() as Promise<T>
