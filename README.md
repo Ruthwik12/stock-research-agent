@@ -356,3 +356,7 @@ docstring), `stockagent/debate_graph.py`, `stockagent/forecaster.py`, `stockagen
 - [PROGRESS.md](PROGRESS.md): the build log with real results
 - [docs/Stock_Agent_Capstone_Handoff.md](docs/Stock_Agent_Capstone_Handoff.md): the original design brief
 - `docs/checkpoint*.md` and PDFs: write-ups for each program module
+
+## License
+
+[MIT](LICENSE). The software is provided as is; nothing in this repository is financial advice.
