@@ -12,7 +12,7 @@ Target pace: about 140 words per minute. Total about 9 minutes 55 seconds; trim 
 | 4 | Architecture | 1:10 | 3:30 |
 | 5 | The eight agents | 1:15 | 4:45 |
 | 6 | The life of one pick | 1:10 | 5:55 |
-| 7 | Design evolution | 1:10 | 7:05 |
+| 7 | Key design decisions and how they evolved | 1:10 | 7:05 |
 | 8 | Evaluation and results | 1:10 | 8:15 |
 | 9 | Safety, reliability and oversight | 0:50 | 9:05 |
 | 10 | Repository and next steps | 0:50 | 9:55 |
@@ -82,7 +82,7 @@ watches it, it is graded after 90 days, and the reflector looks for groups of st
 closes with a person: the reflector only proposes corrections; they change future forecasts only when I approve them, and
 closing a position is always my decision.
 
-## 7. Design evolution (1:10)
+## 7. Key design decisions and how they evolved (1:10)
 
 The design grew one layer per module. Module 1 framed the task as a gradable probability. Module 2 gave the reasoning
 loop, tools and memory; the instructor suggested a self-correction loop, which became the reflector. Module 3 added
